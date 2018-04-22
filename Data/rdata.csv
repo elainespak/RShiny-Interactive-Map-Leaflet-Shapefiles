@@ -1,0 +1,3083 @@
+number,name,FIPS,Cancer
+0,"alabama,autauga",1001.0,4.0
+1,"alabama,baldwin",1003.0,3.0
+2,"alabama,barbour",1005.0,4.0
+3,"alabama,bibb",1007.0,5.0
+4,"alabama,blount",1009.0,4.0
+5,"alabama,bullock",1011.0,
+6,"alabama,butler",1013.0,4.0
+7,"alabama,calhoun",1015.0,4.0
+8,"alabama,chambers",1017.0,4.0
+9,"alabama,cherokee",1019.0,5.0
+10,"alabama,chilton",1021.0,3.0
+11,"alabama,choctaw",1023.0,2.0
+12,"alabama,clarke",1025.0,3.0
+13,"alabama,clay",1027.0,5.0
+14,"alabama,cleburne",1029.0,5.0
+15,"alabama,coffee",1031.0,3.0
+16,"alabama,colbert",1033.0,4.0
+17,"alabama,conecuh",1035.0,5.0
+18,"alabama,coosa",1037.0,5.0
+19,"alabama,covington",1039.0,4.0
+20,"alabama,crenshaw",1041.0,4.0
+21,"alabama,cullman",1043.0,5.0
+22,"alabama,dale",1045.0,4.0
+23,"alabama,dallas",1047.0,3.0
+24,"alabama,de kalb",1049.0,4.0
+25,"alabama,elmore",1051.0,3.0
+26,"alabama,escambia",1053.0,4.0
+27,"alabama,etowah",1055.0,4.0
+28,"alabama,fayette",1057.0,4.0
+29,"alabama,franklin",1059.0,5.0
+30,"alabama,geneva",1061.0,5.0
+31,"alabama,greene",1063.0,2.0
+32,"alabama,hale",1065.0,
+33,"alabama,henry",1067.0,3.0
+34,"alabama,houston",1069.0,3.0
+35,"alabama,jackson",1071.0,5.0
+36,"alabama,jefferson",1073.0,3.0
+37,"alabama,lamar",1075.0,5.0
+38,"alabama,lauderdale",1077.0,3.0
+39,"alabama,lawrence",1079.0,5.0
+40,"alabama,lee",1081.0,3.0
+41,"alabama,limestone",1083.0,4.0
+42,"alabama,lowndes",1085.0,5.0
+43,"alabama,macon",1087.0,3.0
+44,"alabama,madison",1089.0,3.0
+45,"alabama,marengo",1091.0,2.0
+46,"alabama,marion",1093.0,5.0
+47,"alabama,marshall",1095.0,4.0
+48,"alabama,mobile",1097.0,3.0
+49,"alabama,monroe",1099.0,2.0
+50,"alabama,montgomery",1101.0,3.0
+51,"alabama,morgan",1103.0,4.0
+52,"alabama,perry",1105.0,3.0
+53,"alabama,pickens",1107.0,2.0
+54,"alabama,pike",1109.0,2.0
+55,"alabama,randolph",1111.0,5.0
+56,"alabama,russell",1113.0,5.0
+57,"alabama,st clair",1115.0,4.0
+58,"alabama,shelby",1117.0,3.0
+59,"alabama,sumter",1119.0,2.0
+60,"alabama,talladega",1121.0,4.0
+61,"alabama,tallapoosa",1123.0,5.0
+62,"alabama,tuscaloosa",1125.0,4.0
+63,"alabama,walker",1127.0,5.0
+64,"alabama,washington",1129.0,3.0
+65,"alabama,wilcox",1131.0,3.0
+66,"alabama,winston",1133.0,5.0
+67,"arizona,apache",4001.0,1.0
+68,"arizona,cochise",4003.0,1.0
+69,"arizona,coconino",4005.0,1.0
+70,"arizona,gila",4007.0,1.0
+71,"arizona,graham",4009.0,1.0
+72,"arizona,greenlee",4011.0,1.0
+73,"arizona,maricopa",4013.0,1.0
+74,"arizona,mohave",4015.0,4.0
+75,"arizona,navajo",4017.0,1.0
+76,"arizona,pima",4019.0,1.0
+77,"arizona,pinal",4021.0,1.0
+78,"arizona,santa cruz",4023.0,1.0
+79,"arizona,yavapai",4025.0,1.0
+80,"arizona,yuma",4027.0,1.0
+81,"arkansas,arkansas",5001.0,5.0
+82,"arkansas,ashley",5003.0,4.0
+83,"arkansas,baxter",5005.0,4.0
+84,"arkansas,benton",5007.0,2.0
+85,"arkansas,boone",5009.0,3.0
+86,"arkansas,bradley",5011.0,5.0
+87,"arkansas,calhoun",5013.0,
+88,"arkansas,carroll",5015.0,4.0
+89,"arkansas,chicot",5017.0,5.0
+90,"arkansas,clark",5019.0,4.0
+91,"arkansas,clay",5021.0,5.0
+92,"arkansas,cleburne",5023.0,5.0
+93,"arkansas,cleveland",5025.0,5.0
+94,"arkansas,columbia",5027.0,3.0
+95,"arkansas,conway",5029.0,5.0
+96,"arkansas,craighead",5031.0,3.0
+97,"arkansas,crawford",5033.0,5.0
+98,"arkansas,crittenden",5035.0,4.0
+99,"arkansas,cross",5037.0,5.0
+100,"arkansas,dallas",5039.0,
+101,"arkansas,desha",5041.0,5.0
+102,"arkansas,drew",5043.0,5.0
+103,"arkansas,faulkner",5045.0,4.0
+104,"arkansas,franklin",5047.0,3.0
+105,"arkansas,fulton",5049.0,3.0
+106,"arkansas,garland",5051.0,4.0
+107,"arkansas,grant",5053.0,5.0
+108,"arkansas,greene",5055.0,3.0
+109,"arkansas,hempstead",5057.0,2.0
+110,"arkansas,hot spring",5059.0,5.0
+111,"arkansas,howard",5061.0,5.0
+112,"arkansas,independence",5063.0,5.0
+113,"arkansas,izard",5065.0,5.0
+114,"arkansas,jackson",5067.0,5.0
+115,"arkansas,jefferson",5069.0,5.0
+116,"arkansas,johnson",5071.0,5.0
+117,"arkansas,lafayette",5073.0,
+118,"arkansas,lawrence",5075.0,
+119,"arkansas,lee",5077.0,5.0
+120,"arkansas,lincoln",5079.0,5.0
+121,"arkansas,little river",5081.0,5.0
+122,"arkansas,logan",5083.0,5.0
+123,"arkansas,lonoke",5085.0,3.0
+124,"arkansas,madison",5087.0,3.0
+125,"arkansas,marion",5089.0,5.0
+126,"arkansas,miller",5091.0,5.0
+127,"arkansas,mississippi",5093.0,5.0
+128,"arkansas,monroe",5095.0,
+129,"arkansas,montgomery",5097.0,
+130,"arkansas,nevada",5099.0,5.0
+131,"arkansas,newton",5101.0,5.0
+132,"arkansas,ouachita",5103.0,5.0
+133,"arkansas,perry",5105.0,5.0
+134,"arkansas,phillips",5107.0,5.0
+135,"arkansas,pike",5109.0,4.0
+136,"arkansas,poinsett",5111.0,5.0
+137,"arkansas,polk",5113.0,5.0
+138,"arkansas,pope",5115.0,4.0
+139,"arkansas,prairie",5117.0,5.0
+140,"arkansas,pulaski",5119.0,3.0
+141,"arkansas,randolph",5121.0,5.0
+142,"arkansas,st francis",5123.0,5.0
+143,"arkansas,saline",5125.0,4.0
+144,"arkansas,scott",5127.0,5.0
+145,"arkansas,searcy",5129.0,3.0
+146,"arkansas,sebastian",5131.0,4.0
+147,"arkansas,sevier",5133.0,5.0
+148,"arkansas,sharp",5135.0,5.0
+149,"arkansas,stone",5137.0,5.0
+150,"arkansas,union",5139.0,5.0
+151,"arkansas,van buren",5141.0,5.0
+152,"arkansas,washington",5143.0,3.0
+153,"arkansas,white",5145.0,3.0
+154,"arkansas,woodruff",5147.0,
+155,"arkansas,yell",5149.0,5.0
+156,"california,alameda",6001.0,1.0
+157,"california,alpine",6003.0,
+158,"california,amador",6005.0,2.0
+159,"california,butte",6007.0,1.0
+160,"california,calaveras",6009.0,1.0
+161,"california,colusa",6011.0,
+162,"california,contra costa",6013.0,1.0
+163,"california,del norte",6015.0,1.0
+164,"california,el dorado",6017.0,1.0
+165,"california,fresno",6019.0,1.0
+166,"california,glenn",6021.0,
+167,"california,humboldt",6023.0,1.0
+168,"california,imperial",6025.0,1.0
+169,"california,inyo",6027.0,
+170,"california,kern",6029.0,1.0
+171,"california,kings",6031.0,1.0
+172,"california,lake",6033.0,1.0
+173,"california,lassen",6035.0,1.0
+174,"california,los angeles",6037.0,1.0
+175,"california,madera",6039.0,1.0
+176,"california,marin",6041.0,1.0
+177,"california,mariposa",6043.0,1.0
+178,"california,mendocino",6045.0,1.0
+179,"california,merced",6047.0,1.0
+180,"california,modoc",6049.0,
+181,"california,mono",6051.0,
+182,"california,monterey",6053.0,1.0
+183,"california,napa",6055.0,1.0
+184,"california,nevada",6057.0,1.0
+185,"california,orange",6059.0,1.0
+186,"california,placer",6061.0,1.0
+187,"california,plumas",6063.0,1.0
+188,"california,riverside",6065.0,1.0
+189,"california,sacramento",6067.0,1.0
+190,"california,san benito",6069.0,
+191,"california,san bernardino",6071.0,1.0
+192,"california,san diego",6073.0,1.0
+193,"california,san francisco",6075.0,1.0
+194,"california,san joaquin",6077.0,2.0
+195,"california,san luis obispo",6079.0,1.0
+196,"california,san mateo",6081.0,1.0
+197,"california,santa barbara",6083.0,1.0
+198,"california,santa clara",6085.0,1.0
+199,"california,santa cruz",6087.0,1.0
+200,"california,shasta",6089.0,2.0
+201,"california,sierra",6091.0,
+202,"california,siskiyou",6093.0,2.0
+203,"california,solano",6095.0,1.0
+204,"california,sonoma",6097.0,1.0
+205,"california,stanislaus",6099.0,1.0
+206,"california,sutter",6101.0,1.0
+207,"california,tehama",6103.0,2.0
+208,"california,trinity",6105.0,2.0
+209,"california,tulare",6107.0,1.0
+210,"california,tuolumne",6109.0,1.0
+211,"california,ventura",6111.0,1.0
+212,"california,yolo",6113.0,1.0
+213,"california,yuba",6115.0,1.0
+214,"colorado,adams",8001.0,1.0
+215,"colorado,alamosa",8003.0,1.0
+216,"colorado,arapahoe",8005.0,1.0
+217,"colorado,archuleta",8007.0,1.0
+218,"colorado,baca",8009.0,
+219,"colorado,bent",8011.0,1.0
+220,"colorado,boulder",8013.0,1.0
+221,"colorado,chaffee",8015.0,1.0
+222,"colorado,cheyenne",8017.0,
+223,"colorado,clear creek",8019.0,1.0
+224,"colorado,conejos",8021.0,1.0
+225,"colorado,costilla",8023.0,1.0
+226,"colorado,crowley",8025.0,
+227,"colorado,custer",8027.0,1.0
+228,"colorado,delta",8029.0,1.0
+229,"colorado,denver",8031.0,1.0
+230,"colorado,dolores",8033.0,
+231,"colorado,douglas",8035.0,1.0
+232,"colorado,eagle",8037.0,1.0
+233,"colorado,elbert",8039.0,1.0
+234,"colorado,el paso",8041.0,1.0
+235,"colorado,fremont",8043.0,1.0
+236,"colorado,garfield",8045.0,1.0
+237,"colorado,gilpin",8047.0,
+238,"colorado,grand",8049.0,1.0
+239,"colorado,gunnison",8051.0,1.0
+240,"colorado,hinsdale",8053.0,
+241,"colorado,huerfano",8055.0,
+242,"colorado,jackson",8057.0,
+243,"colorado,jefferson",8059.0,1.0
+244,"colorado,kiowa",8061.0,
+245,"colorado,kit carson",8063.0,1.0
+246,"colorado,lake",8065.0,1.0
+247,"colorado,la plata",8067.0,1.0
+248,"colorado,larimer",8069.0,1.0
+249,"colorado,las animas",8071.0,1.0
+250,"colorado,lincoln",8073.0,
+251,"colorado,logan",8075.0,1.0
+252,"colorado,mesa",8077.0,1.0
+253,"colorado,mineral",8079.0,
+254,"colorado,moffat",8081.0,1.0
+255,"colorado,montezuma",8083.0,1.0
+256,"colorado,montrose",8085.0,1.0
+257,"colorado,morgan",8087.0,1.0
+258,"colorado,otero",8089.0,1.0
+259,"colorado,ouray",8091.0,
+260,"colorado,park",8093.0,1.0
+261,"colorado,phillips",8095.0,
+262,"colorado,pitkin",8097.0,
+263,"colorado,prowers",8099.0,2.0
+264,"colorado,pueblo",8101.0,1.0
+265,"colorado,rio blanco",8103.0,1.0
+266,"colorado,rio grande",8105.0,1.0
+267,"colorado,routt",8107.0,1.0
+268,"colorado,saguache",8109.0,1.0
+269,"colorado,san juan",8111.0,
+270,"colorado,san miguel",8113.0,
+271,"colorado,sedgwick",8115.0,
+272,"colorado,summit",8117.0,1.0
+273,"colorado,teller",8119.0,1.0
+274,"colorado,washington",8121.0,
+275,"colorado,weld",8123.0,1.0
+276,"colorado,yuma",8125.0,1.0
+277,"connecticut,fairfield",9001.0,1.0
+278,"connecticut,hartford",9003.0,2.0
+279,"connecticut,litchfield",9005.0,2.0
+280,"connecticut,middlesex",9007.0,2.0
+281,"connecticut,new haven",9009.0,3.0
+282,"connecticut,new london",9011.0,3.0
+283,"connecticut,tolland",9013.0,1.0
+284,"connecticut,windham",9015.0,3.0
+285,"delaware,kent",10001.0,3.0
+286,"delaware,new castle",10003.0,3.0
+287,"delaware,sussex",10005.0,3.0
+288,"district of columbia,washington",11001.0,1.0
+289,"florida,alachua",12001.0,3.0
+290,"florida,baker",12003.0,5.0
+291,"florida,bay",12005.0,5.0
+292,"florida,bradford",12007.0,4.0
+293,"florida,brevard",12009.0,4.0
+294,"florida,broward",12011.0,1.0
+295,"florida,calhoun",12013.0,5.0
+296,"florida,charlotte",12015.0,2.0
+297,"florida,citrus",12017.0,4.0
+298,"florida,clay",12019.0,3.0
+299,"florida,collier",12021.0,1.0
+300,"florida,columbia",12023.0,5.0
+301,"florida,dade",12025.0,
+302,"florida,de soto",12027.0,1.0
+303,"florida,dixie",12029.0,5.0
+304,"florida,duval",12031.0,3.0
+305,"florida,escambia",12033.0,4.0
+306,"florida,flagler",12035.0,3.0
+307,"florida,franklin",12037.0,
+308,"florida,gadsden",12039.0,3.0
+309,"florida,gilchrist",12041.0,5.0
+310,"florida,glades",12043.0,1.0
+311,"florida,gulf",12045.0,5.0
+312,"florida,hamilton",12047.0,5.0
+313,"florida,hardee",12049.0,4.0
+314,"florida,hendry",12051.0,3.0
+315,"florida,hernando",12053.0,4.0
+316,"florida,highlands",12055.0,3.0
+317,"florida,hillsborough",12057.0,3.0
+318,"florida,holmes",12059.0,5.0
+319,"florida,indian river",12061.0,3.0
+320,"florida,jackson",12063.0,3.0
+321,"florida,jefferson",12065.0,4.0
+322,"florida,lafayette",12067.0,5.0
+323,"florida,lake",12069.0,4.0
+324,"florida,lee",12071.0,2.0
+325,"florida,leon",12073.0,3.0
+326,"florida,levy",12075.0,5.0
+327,"florida,liberty",12077.0,3.0
+328,"florida,madison",12079.0,2.0
+329,"florida,manatee",12081.0,3.0
+330,"florida,marion",12083.0,4.0
+331,"florida,martin",12085.0,2.0
+332,"florida,monroe",12087.0,1.0
+333,"florida,nassau",12089.0,4.0
+334,"florida,okaloosa:main",12091.0,4.0
+335,"florida,okaloosa:spit",12092.0,
+336,"florida,okeechobee",12093.0,5.0
+337,"florida,orange",12095.0,1.0
+338,"florida,osceola",12097.0,3.0
+339,"florida,palm beach",12099.0,1.0
+340,"florida,pasco",12101.0,4.0
+341,"florida,pinellas",12103.0,3.0
+342,"florida,polk",12105.0,3.0
+343,"florida,putnam",12107.0,5.0
+344,"florida,st johns",12109.0,2.0
+345,"florida,st lucie",12111.0,3.0
+346,"florida,santa rosa",12113.0,4.0
+347,"florida,sarasota",12115.0,2.0
+348,"florida,seminole",12117.0,1.0
+349,"florida,sumter",12119.0,2.0
+350,"florida,suwannee",12121.0,5.0
+351,"florida,taylor",12123.0,5.0
+352,"florida,union",12125.0,5.0
+353,"florida,volusia",12127.0,4.0
+354,"florida,wakulla",12129.0,5.0
+355,"florida,walton",12131.0,5.0
+356,"florida,washington",12133.0,5.0
+357,"georgia,appling",13001.0,5.0
+358,"georgia,atkinson",13003.0,
+359,"georgia,bacon",13005.0,
+360,"georgia,baker",13007.0,
+361,"georgia,baldwin",13009.0,4.0
+362,"georgia,banks",13011.0,
+363,"georgia,barrow",13013.0,5.0
+364,"georgia,bartow",13015.0,4.0
+365,"georgia,ben hill",13017.0,5.0
+366,"georgia,berrien",13019.0,4.0
+367,"georgia,bibb",13021.0,4.0
+368,"georgia,bleckley",13023.0,4.0
+369,"georgia,brantley",13025.0,5.0
+370,"georgia,brooks",13027.0,4.0
+371,"georgia,bryan",13029.0,4.0
+372,"georgia,bulloch",13031.0,4.0
+373,"georgia,burke",13033.0,
+374,"georgia,butts",13035.0,
+375,"georgia,calhoun",13037.0,
+376,"georgia,camden",13039.0,5.0
+377,"georgia,candler",13043.0,
+378,"georgia,carroll",13045.0,4.0
+379,"georgia,catoosa",13047.0,3.0
+380,"georgia,charlton",13049.0,5.0
+381,"georgia,chatham",13051.0,3.0
+382,"georgia,chattahoochee",13053.0,
+383,"georgia,chattooga",13055.0,5.0
+384,"georgia,cherokee",13057.0,3.0
+385,"georgia,clarke",13059.0,2.0
+386,"georgia,clay",13061.0,
+387,"georgia,clayton",13063.0,3.0
+388,"georgia,clinch",13065.0,
+389,"georgia,cobb",13067.0,2.0
+390,"georgia,coffee",13069.0,4.0
+391,"georgia,colquitt",13071.0,5.0
+392,"georgia,columbia",13073.0,2.0
+393,"georgia,cook",13075.0,5.0
+394,"georgia,coweta",13077.0,2.0
+395,"georgia,crawford",13079.0,5.0
+396,"georgia,crisp",13081.0,4.0
+397,"georgia,dade",13083.0,5.0
+398,"georgia,dawson",13085.0,
+399,"georgia,decatur",13087.0,5.0
+400,"georgia,de kalb",13089.0,1.0
+401,"georgia,dodge",13091.0,4.0
+402,"georgia,dooly",13093.0,
+403,"georgia,dougherty",13095.0,3.0
+404,"georgia,douglas",13097.0,3.0
+405,"georgia,early",13099.0,
+406,"georgia,echols",13101.0,
+407,"georgia,effingham",13103.0,3.0
+408,"georgia,elbert",13105.0,3.0
+409,"georgia,emanuel",13107.0,
+410,"georgia,evans",13109.0,
+411,"georgia,fannin",13111.0,5.0
+412,"georgia,fayette",13113.0,1.0
+413,"georgia,floyd",13115.0,4.0
+414,"georgia,forsyth",13117.0,2.0
+415,"georgia,franklin",13119.0,
+416,"georgia,fulton",13121.0,1.0
+417,"georgia,gilmer",13123.0,5.0
+418,"georgia,glascock",13125.0,
+419,"georgia,glynn",13127.0,3.0
+420,"georgia,gordon",13129.0,5.0
+421,"georgia,grady",13131.0,4.0
+422,"georgia,greene",13133.0,3.0
+423,"georgia,gwinnett",13135.0,1.0
+424,"georgia,habersham",13137.0,3.0
+425,"georgia,hall",13139.0,2.0
+426,"georgia,hancock",13141.0,
+427,"georgia,haralson",13143.0,5.0
+428,"georgia,harris",13145.0,2.0
+429,"georgia,hart",13147.0,
+430,"georgia,heard",13149.0,
+431,"georgia,henry",13151.0,2.0
+432,"georgia,houston",13153.0,3.0
+433,"georgia,irwin",13155.0,
+434,"georgia,jackson",13157.0,5.0
+435,"georgia,jasper",13159.0,
+436,"georgia,jeff davis",13161.0,4.0
+437,"georgia,jefferson",13163.0,3.0
+438,"georgia,jenkins",13165.0,
+439,"georgia,johnson",13167.0,3.0
+440,"georgia,jones",13169.0,5.0
+441,"georgia,lamar",13171.0,
+442,"georgia,lanier",13173.0,4.0
+443,"georgia,laurens",13175.0,4.0
+444,"georgia,lee",13177.0,5.0
+445,"georgia,liberty",13179.0,4.0
+446,"georgia,lincoln",13181.0,5.0
+447,"georgia,long",13183.0,
+448,"georgia,lowndes",13185.0,4.0
+449,"georgia,lumpkin",13187.0,
+450,"georgia,mcduffie",13189.0,5.0
+451,"georgia,mcintosh",13191.0,5.0
+452,"georgia,macon",13193.0,
+453,"georgia,madison",13195.0,5.0
+454,"georgia,marion",13197.0,
+455,"georgia,meriwether",13199.0,4.0
+456,"georgia,miller",13201.0,
+457,"georgia,mitchell",13205.0,
+458,"georgia,monroe",13207.0,5.0
+459,"georgia,montgomery",13209.0,
+460,"georgia,morgan",13211.0,
+461,"georgia,murray",13213.0,5.0
+462,"georgia,muscogee",13215.0,4.0
+463,"georgia,newton",13217.0,3.0
+464,"georgia,oconee",13219.0,
+465,"georgia,oglethorpe",13221.0,5.0
+466,"georgia,paulding",13223.0,3.0
+467,"georgia,peach",13225.0,3.0
+468,"georgia,pickens",13227.0,5.0
+469,"georgia,pierce",13229.0,4.0
+470,"georgia,pike",13231.0,
+471,"georgia,polk",13233.0,5.0
+472,"georgia,pulaski",13235.0,4.0
+473,"georgia,putnam",13237.0,3.0
+474,"georgia,quitman",13239.0,
+475,"georgia,rabun",13241.0,
+476,"georgia,randolph",13243.0,
+477,"georgia,richmond",13245.0,3.0
+478,"georgia,rockdale",13247.0,2.0
+479,"georgia,schley",13249.0,
+480,"georgia,screven",13251.0,3.0
+481,"georgia,seminole",13253.0,
+482,"georgia,spalding",13255.0,4.0
+483,"georgia,stephens",13257.0,
+484,"georgia,stewart",13259.0,
+485,"georgia,sumter",13261.0,3.0
+486,"georgia,talbot",13263.0,
+487,"georgia,taliaferro",13265.0,
+488,"georgia,tattnall",13267.0,5.0
+489,"georgia,taylor",13269.0,
+490,"georgia,telfair",13271.0,3.0
+491,"georgia,terrell",13273.0,
+492,"georgia,thomas",13275.0,4.0
+493,"georgia,tift",13277.0,4.0
+494,"georgia,toombs",13279.0,4.0
+495,"georgia,towns",13281.0,
+496,"georgia,treutlen",13283.0,5.0
+497,"georgia,troup",13285.0,4.0
+498,"georgia,turner",13287.0,5.0
+499,"georgia,twiggs",13289.0,
+500,"georgia,union",13291.0,3.0
+501,"georgia,upson",13293.0,5.0
+502,"georgia,walker",13295.0,5.0
+503,"georgia,walton",13297.0,3.0
+504,"georgia,ware",13299.0,4.0
+505,"georgia,warren",13301.0,
+506,"georgia,washington",13303.0,
+507,"georgia,wayne",13305.0,5.0
+508,"georgia,webster",13307.0,
+509,"georgia,wheeler",13309.0,
+510,"georgia,white",13311.0,3.0
+511,"georgia,whitfield",13313.0,3.0
+512,"georgia,wilcox",13315.0,5.0
+513,"georgia,wilkes",13317.0,
+514,"georgia,wilkinson",13319.0,
+515,"georgia,worth",13321.0,4.0
+516,"idaho,ada",16001.0,1.0
+517,"idaho,adams",16003.0,3.0
+518,"idaho,bannock",16005.0,1.0
+519,"idaho,bear lake",16007.0,1.0
+520,"idaho,benewah",16009.0,4.0
+521,"idaho,bingham",16011.0,1.0
+522,"idaho,blaine",16013.0,1.0
+523,"idaho,boise",16015.0,3.0
+524,"idaho,bonner",16017.0,1.0
+525,"idaho,bonneville",16019.0,1.0
+526,"idaho,boundary",16021.0,1.0
+527,"idaho,butte",16023.0,
+528,"idaho,camas",16025.0,
+529,"idaho,canyon",16027.0,2.0
+530,"idaho,caribou",16029.0,1.0
+531,"idaho,cassia",16031.0,1.0
+532,"idaho,clark",16033.0,
+533,"idaho,clearwater",16035.0,3.0
+534,"idaho,custer",16037.0,1.0
+535,"idaho,elmore",16039.0,1.0
+536,"idaho,franklin",16041.0,1.0
+537,"idaho,fremont",16043.0,1.0
+538,"idaho,gem",16045.0,2.0
+539,"idaho,gooding",16047.0,3.0
+540,"idaho,idaho",16049.0,1.0
+541,"idaho,jefferson",16051.0,1.0
+542,"idaho,jerome",16053.0,1.0
+543,"idaho,kootenai",16055.0,2.0
+544,"idaho,latah",16057.0,1.0
+545,"idaho,lemhi",16059.0,
+546,"idaho,lewis",16061.0,1.0
+547,"idaho,lincoln",16063.0,
+548,"idaho,madison",16065.0,1.0
+549,"idaho,minidoka",16067.0,1.0
+550,"idaho,nez perce",16069.0,2.0
+551,"idaho,oneida",16071.0,1.0
+552,"idaho,owyhee",16073.0,1.0
+553,"idaho,payette",16075.0,1.0
+554,"idaho,power",16077.0,1.0
+555,"idaho,shoshone",16079.0,5.0
+556,"idaho,teton",16081.0,1.0
+557,"idaho,twin falls",16083.0,1.0
+558,"idaho,valley",16085.0,1.0
+559,"idaho,washington",16087.0,3.0
+560,"illinois,adams",17001.0,4.0
+561,"illinois,alexander",17003.0,
+562,"illinois,bond",17005.0,3.0
+563,"illinois,boone",17007.0,2.0
+564,"illinois,brown",17009.0,
+565,"illinois,bureau",17011.0,
+566,"illinois,calhoun",17013.0,
+567,"illinois,carroll",17015.0,
+568,"illinois,cass",17017.0,
+569,"illinois,champaign",17019.0,2.0
+570,"illinois,christian",17021.0,
+571,"illinois,clark",17023.0,
+572,"illinois,clay",17025.0,
+573,"illinois,clinton",17027.0,3.0
+574,"illinois,coles",17029.0,4.0
+575,"illinois,cook",17031.0,2.0
+576,"illinois,crawford",17033.0,
+577,"illinois,cumberland",17035.0,
+578,"illinois,de kalb",17037.0,2.0
+579,"illinois,de witt",17039.0,
+580,"illinois,douglas",17041.0,
+581,"illinois,du page",17043.0,1.0
+582,"illinois,edgar",17045.0,
+583,"illinois,edwards",17047.0,
+584,"illinois,effingham",17049.0,3.0
+585,"illinois,fayette",17051.0,
+586,"illinois,ford",17053.0,
+587,"illinois,franklin",17055.0,
+588,"illinois,fulton",17057.0,
+589,"illinois,gallatin",17059.0,
+590,"illinois,greene",17061.0,
+591,"illinois,grundy",17063.0,3.0
+592,"illinois,hamilton",17065.0,
+593,"illinois,hancock",17067.0,
+594,"illinois,hardin",17069.0,
+595,"illinois,henderson",17071.0,
+596,"illinois,henry",17073.0,4.0
+597,"illinois,iroquois",17075.0,4.0
+598,"illinois,jackson",17077.0,3.0
+599,"illinois,jasper",17079.0,
+600,"illinois,jefferson",17081.0,4.0
+601,"illinois,jersey",17083.0,3.0
+602,"illinois,jo daviess",17085.0,
+603,"illinois,johnson",17087.0,
+604,"illinois,kane",17089.0,2.0
+605,"illinois,kankakee",17091.0,4.0
+606,"illinois,kendall",17093.0,2.0
+607,"illinois,knox",17095.0,3.0
+608,"illinois,lake",17097.0,2.0
+609,"illinois,la salle",17099.0,4.0
+610,"illinois,lawrence",17101.0,
+611,"illinois,lee",17103.0,
+612,"illinois,livingston",17105.0,4.0
+613,"illinois,logan",17107.0,5.0
+614,"illinois,mcdonough",17109.0,
+615,"illinois,mchenry",17111.0,2.0
+616,"illinois,mclean",17113.0,2.0
+617,"illinois,macon",17115.0,5.0
+618,"illinois,macoupin",17117.0,5.0
+619,"illinois,madison",17119.0,3.0
+620,"illinois,marion",17121.0,5.0
+621,"illinois,marshall",17123.0,
+622,"illinois,mason",17125.0,
+623,"illinois,massac",17127.0,
+624,"illinois,menard",17129.0,
+625,"illinois,mercer",17131.0,
+626,"illinois,monroe",17133.0,
+627,"illinois,montgomery",17135.0,5.0
+628,"illinois,morgan",17137.0,3.0
+629,"illinois,moultrie",17139.0,
+630,"illinois,ogle",17141.0,2.0
+631,"illinois,peoria",17143.0,3.0
+632,"illinois,perry",17145.0,
+633,"illinois,piatt",17147.0,
+634,"illinois,pike",17149.0,
+635,"illinois,pope",17151.0,
+636,"illinois,pulaski",17153.0,
+637,"illinois,putnam",17155.0,
+638,"illinois,randolph",17157.0,
+639,"illinois,richland",17159.0,
+640,"illinois,rock island",17161.0,3.0
+641,"illinois,st clair",17163.0,5.0
+642,"illinois,saline",17165.0,
+643,"illinois,sangamon",17167.0,3.0
+644,"illinois,schuyler",17169.0,
+645,"illinois,scott",17171.0,
+646,"illinois,shelby",17173.0,
+647,"illinois,stark",17175.0,
+648,"illinois,stephenson",17177.0,
+649,"illinois,tazewell",17179.0,3.0
+650,"illinois,union",17181.0,
+651,"illinois,vermilion",17183.0,4.0
+652,"illinois,wabash",17185.0,
+653,"illinois,warren",17187.0,
+654,"illinois,washington",17189.0,
+655,"illinois,wayne",17191.0,
+656,"illinois,white",17193.0,
+657,"illinois,whiteside",17195.0,3.0
+658,"illinois,will",17197.0,3.0
+659,"illinois,williamson",17199.0,3.0
+660,"illinois,winnebago",17201.0,3.0
+661,"illinois,woodford",17203.0,2.0
+662,"indiana,adams",18001.0,2.0
+663,"indiana,allen",18003.0,3.0
+664,"indiana,bartholomew",18005.0,3.0
+665,"indiana,benton",18007.0,5.0
+666,"indiana,blackford",18009.0,5.0
+667,"indiana,boone",18011.0,2.0
+668,"indiana,brown",18013.0,3.0
+669,"indiana,carroll",18015.0,5.0
+670,"indiana,cass",18017.0,4.0
+671,"indiana,clark",18019.0,5.0
+672,"indiana,clay",18021.0,5.0
+673,"indiana,clinton",18023.0,3.0
+674,"indiana,crawford",18025.0,5.0
+675,"indiana,daviess",18027.0,4.0
+676,"indiana,dearborn",18029.0,5.0
+677,"indiana,decatur",18031.0,3.0
+678,"indiana,de kalb",18033.0,3.0
+679,"indiana,delaware",18035.0,4.0
+680,"indiana,dubois",18037.0,3.0
+681,"indiana,elkhart",18039.0,2.0
+682,"indiana,fayette",18041.0,4.0
+683,"indiana,floyd",18043.0,5.0
+684,"indiana,fountain",18045.0,5.0
+685,"indiana,franklin",18047.0,5.0
+686,"indiana,fulton",18049.0,3.0
+687,"indiana,gibson",18051.0,5.0
+688,"indiana,grant",18053.0,4.0
+689,"indiana,greene",18055.0,5.0
+690,"indiana,hamilton",18057.0,1.0
+691,"indiana,hancock",18059.0,3.0
+692,"indiana,harrison",18061.0,5.0
+693,"indiana,hendricks",18063.0,3.0
+694,"indiana,henry",18065.0,4.0
+695,"indiana,howard",18067.0,4.0
+696,"indiana,huntington",18069.0,3.0
+697,"indiana,jackson",18071.0,4.0
+698,"indiana,jasper",18073.0,
+699,"indiana,jay",18075.0,4.0
+700,"indiana,jefferson",18077.0,5.0
+701,"indiana,jennings",18079.0,5.0
+702,"indiana,johnson",18081.0,3.0
+703,"indiana,knox",18083.0,4.0
+704,"indiana,kosciusko",18085.0,3.0
+705,"indiana,lagrange",18087.0,1.0
+706,"indiana,lake",18089.0,3.0
+707,"indiana,la porte",18091.0,4.0
+708,"indiana,lawrence",18093.0,4.0
+709,"indiana,madison",18095.0,4.0
+710,"indiana,marion",18097.0,4.0
+711,"indiana,marshall",18099.0,3.0
+712,"indiana,martin",18101.0,
+713,"indiana,miami",18103.0,4.0
+714,"indiana,monroe",18105.0,2.0
+715,"indiana,montgomery",18107.0,4.0
+716,"indiana,morgan",18109.0,4.0
+717,"indiana,newton",18111.0,5.0
+718,"indiana,noble",18113.0,4.0
+719,"indiana,ohio",18115.0,
+720,"indiana,orange",18117.0,5.0
+721,"indiana,owen",18119.0,5.0
+722,"indiana,parke",18121.0,5.0
+723,"indiana,perry",18123.0,5.0
+724,"indiana,pike",18125.0,
+725,"indiana,porter",18127.0,3.0
+726,"indiana,posey",18129.0,5.0
+727,"indiana,pulaski",18131.0,5.0
+728,"indiana,putnam",18133.0,5.0
+729,"indiana,randolph",18135.0,3.0
+730,"indiana,ripley",18137.0,5.0
+731,"indiana,rush",18139.0,5.0
+732,"indiana,st joseph",18141.0,3.0
+733,"indiana,scott",18143.0,5.0
+734,"indiana,shelby",18145.0,4.0
+735,"indiana,spencer",18147.0,3.0
+736,"indiana,starke",18149.0,5.0
+737,"indiana,steuben",18151.0,3.0
+738,"indiana,sullivan",18153.0,5.0
+739,"indiana,switzerland",18155.0,5.0
+740,"indiana,tippecanoe",18157.0,2.0
+741,"indiana,tipton",18159.0,5.0
+742,"indiana,union",18161.0,5.0
+743,"indiana,vanderburgh",18163.0,5.0
+744,"indiana,vermillion",18165.0,5.0
+745,"indiana,vigo",18167.0,4.0
+746,"indiana,wabash",18169.0,3.0
+747,"indiana,warren",18171.0,2.0
+748,"indiana,warrick",18173.0,3.0
+749,"indiana,washington",18175.0,5.0
+750,"indiana,wayne",18177.0,4.0
+751,"indiana,wells",18179.0,3.0
+752,"indiana,white",18181.0,5.0
+753,"indiana,whitley",18183.0,3.0
+754,"iowa,adair",19001.0,
+755,"iowa,adams",19003.0,
+756,"iowa,allamakee",19005.0,1.0
+757,"iowa,appanoose",19007.0,4.0
+758,"iowa,audubon",19009.0,1.0
+759,"iowa,benton",19011.0,3.0
+760,"iowa,black hawk",19013.0,3.0
+761,"iowa,boone",19015.0,4.0
+762,"iowa,bremer",19017.0,1.0
+763,"iowa,buchanan",19019.0,2.0
+764,"iowa,buena vista",19021.0,1.0
+765,"iowa,butler",19023.0,
+766,"iowa,calhoun",19025.0,3.0
+767,"iowa,carroll",19027.0,2.0
+768,"iowa,cass",19029.0,3.0
+769,"iowa,cedar",19031.0,2.0
+770,"iowa,cerro gordo",19033.0,2.0
+771,"iowa,cherokee",19035.0,
+772,"iowa,chickasaw",19037.0,2.0
+773,"iowa,clarke",19039.0,
+774,"iowa,clay",19041.0,2.0
+775,"iowa,clayton",19043.0,1.0
+776,"iowa,clinton",19045.0,3.0
+777,"iowa,crawford",19047.0,1.0
+778,"iowa,dallas",19049.0,1.0
+779,"iowa,davis",19051.0,3.0
+780,"iowa,decatur",19053.0,1.0
+781,"iowa,delaware",19055.0,1.0
+782,"iowa,des moines",19057.0,3.0
+783,"iowa,dickinson",19059.0,1.0
+784,"iowa,dubuque",19061.0,2.0
+785,"iowa,emmet",19063.0,3.0
+786,"iowa,fayette",19065.0,2.0
+787,"iowa,floyd",19067.0,2.0
+788,"iowa,franklin",19069.0,
+789,"iowa,fremont",19071.0,
+790,"iowa,greene",19073.0,
+791,"iowa,grundy",19075.0,
+792,"iowa,guthrie",19077.0,2.0
+793,"iowa,hamilton",19079.0,3.0
+794,"iowa,hancock",19081.0,1.0
+795,"iowa,hardin",19083.0,2.0
+796,"iowa,harrison",19085.0,3.0
+797,"iowa,henry",19087.0,4.0
+798,"iowa,howard",19089.0,
+799,"iowa,humboldt",19091.0,
+800,"iowa,ida",19093.0,
+801,"iowa,iowa",19095.0,1.0
+802,"iowa,jackson",19097.0,2.0
+803,"iowa,jasper",19099.0,3.0
+804,"iowa,jefferson",19101.0,1.0
+805,"iowa,johnson",19103.0,1.0
+806,"iowa,jones",19105.0,
+807,"iowa,keokuk",19107.0,
+808,"iowa,kossuth",19109.0,1.0
+809,"iowa,lee",19111.0,3.0
+810,"iowa,linn",19113.0,3.0
+811,"iowa,louisa",19115.0,
+812,"iowa,lucas",19117.0,
+813,"iowa,lyon",19119.0,1.0
+814,"iowa,madison",19121.0,1.0
+815,"iowa,mahaska",19123.0,3.0
+816,"iowa,marion",19125.0,2.0
+817,"iowa,marshall",19127.0,2.0
+818,"iowa,mills",19129.0,
+819,"iowa,mitchell",19131.0,
+820,"iowa,monona",19133.0,3.0
+821,"iowa,monroe",19135.0,2.0
+822,"iowa,montgomery",19137.0,4.0
+823,"iowa,muscatine",19139.0,2.0
+824,"iowa,obrien",19141.0,
+825,"iowa,osceola",19143.0,
+826,"iowa,page",19145.0,3.0
+827,"iowa,palo alto",19147.0,
+828,"iowa,plymouth",19149.0,2.0
+829,"iowa,pocahontas",19151.0,1.0
+830,"iowa,polk",19153.0,3.0
+831,"iowa,pottawattamie",19155.0,4.0
+832,"iowa,poweshiek",19157.0,1.0
+833,"iowa,ringgold",19159.0,
+834,"iowa,sac",19161.0,
+835,"iowa,scott",19163.0,3.0
+836,"iowa,shelby",19165.0,2.0
+837,"iowa,sioux",19167.0,1.0
+838,"iowa,story",19169.0,1.0
+839,"iowa,tama",19171.0,2.0
+840,"iowa,taylor",19173.0,
+841,"iowa,union",19175.0,
+842,"iowa,van buren",19177.0,
+843,"iowa,wapello",19179.0,3.0
+844,"iowa,warren",19181.0,3.0
+845,"iowa,washington",19183.0,1.0
+846,"iowa,wayne",19185.0,
+847,"iowa,webster",19187.0,3.0
+848,"iowa,winnebago",19189.0,
+849,"iowa,winneshiek",19191.0,1.0
+850,"iowa,woodbury",19193.0,3.0
+851,"iowa,worth",19195.0,
+852,"iowa,wright",19197.0,1.0
+853,"kansas,allen",20001.0,3.0
+854,"kansas,anderson",20003.0,1.0
+855,"kansas,atchison",20005.0,4.0
+856,"kansas,barber",20007.0,1.0
+857,"kansas,barton",20009.0,1.0
+858,"kansas,bourbon",20011.0,3.0
+859,"kansas,brown",20013.0,2.0
+860,"kansas,butler",20015.0,3.0
+861,"kansas,chase",20017.0,
+862,"kansas,chautauqua",20019.0,
+863,"kansas,cherokee",20021.0,4.0
+864,"kansas,cheyenne",20023.0,
+865,"kansas,clark",20025.0,
+866,"kansas,clay",20027.0,2.0
+867,"kansas,cloud",20029.0,2.0
+868,"kansas,coffey",20031.0,2.0
+869,"kansas,comanche",20033.0,
+870,"kansas,cowley",20035.0,3.0
+871,"kansas,crawford",20037.0,3.0
+872,"kansas,decatur",20039.0,
+873,"kansas,dickinson",20041.0,2.0
+874,"kansas,doniphan",20043.0,2.0
+875,"kansas,douglas",20045.0,1.0
+876,"kansas,edwards",20047.0,
+877,"kansas,elk",20049.0,
+878,"kansas,ellis",20051.0,1.0
+879,"kansas,ellsworth",20053.0,1.0
+880,"kansas,finney",20055.0,1.0
+881,"kansas,ford",20057.0,1.0
+882,"kansas,franklin",20059.0,4.0
+883,"kansas,geary",20061.0,2.0
+884,"kansas,gove",20063.0,
+885,"kansas,graham",20065.0,
+886,"kansas,grant",20067.0,1.0
+887,"kansas,gray",20069.0,1.0
+888,"kansas,greeley",20071.0,
+889,"kansas,greenwood",20073.0,3.0
+890,"kansas,hamilton",20075.0,
+891,"kansas,harper",20077.0,3.0
+892,"kansas,harvey",20079.0,2.0
+893,"kansas,haskell",20081.0,
+894,"kansas,hodgeman",20083.0,
+895,"kansas,jackson",20085.0,5.0
+896,"kansas,jefferson",20087.0,3.0
+897,"kansas,jewell",20089.0,1.0
+898,"kansas,johnson",20091.0,1.0
+899,"kansas,kearny",20093.0,
+900,"kansas,kingman",20095.0,1.0
+901,"kansas,kiowa",20097.0,
+902,"kansas,labette",20099.0,3.0
+903,"kansas,lane",20101.0,
+904,"kansas,leavenworth",20103.0,3.0
+905,"kansas,lincoln",20105.0,
+906,"kansas,linn",20107.0,3.0
+907,"kansas,logan",20109.0,2.0
+908,"kansas,lyon",20111.0,2.0
+909,"kansas,mcpherson",20113.0,2.0
+910,"kansas,marion",20115.0,1.0
+911,"kansas,marshall",20117.0,1.0
+912,"kansas,meade",20119.0,
+913,"kansas,miami",20121.0,2.0
+914,"kansas,mitchell",20123.0,2.0
+915,"kansas,montgomery",20125.0,4.0
+916,"kansas,morris",20127.0,
+917,"kansas,morton",20129.0,
+918,"kansas,nemaha",20131.0,2.0
+919,"kansas,neosho",20133.0,3.0
+920,"kansas,ness",20135.0,1.0
+921,"kansas,norton",20137.0,1.0
+922,"kansas,osage",20139.0,5.0
+923,"kansas,osborne",20141.0,
+924,"kansas,ottawa",20143.0,1.0
+925,"kansas,pawnee",20145.0,3.0
+926,"kansas,phillips",20147.0,1.0
+927,"kansas,pottawatomie",20149.0,1.0
+928,"kansas,pratt",20151.0,
+929,"kansas,rawlins",20153.0,
+930,"kansas,reno",20155.0,2.0
+931,"kansas,republic",20157.0,
+932,"kansas,rice",20159.0,1.0
+933,"kansas,riley",20161.0,1.0
+934,"kansas,rooks",20163.0,1.0
+935,"kansas,rush",20165.0,
+936,"kansas,russell",20167.0,1.0
+937,"kansas,saline",20169.0,2.0
+938,"kansas,scott",20171.0,
+939,"kansas,sedgwick",20173.0,3.0
+940,"kansas,seward",20175.0,1.0
+941,"kansas,shawnee",20177.0,3.0
+942,"kansas,sheridan",20179.0,
+943,"kansas,sherman",20181.0,1.0
+944,"kansas,smith",20183.0,
+945,"kansas,stafford",20185.0,
+946,"kansas,stanton",20187.0,
+947,"kansas,stevens",20189.0,
+948,"kansas,sumner",20191.0,3.0
+949,"kansas,thomas",20193.0,1.0
+950,"kansas,trego",20195.0,1.0
+951,"kansas,wabaunsee",20197.0,2.0
+952,"kansas,wallace",20199.0,
+953,"kansas,washington",20201.0,
+954,"kansas,wichita",20203.0,
+955,"kansas,wilson",20205.0,3.0
+956,"kansas,woodson",20207.0,5.0
+957,"kansas,wyandotte",20209.0,5.0
+958,"kentucky,adair",21001.0,5.0
+959,"kentucky,allen",21003.0,5.0
+960,"kentucky,anderson",21005.0,3.0
+961,"kentucky,ballard",21007.0,5.0
+962,"kentucky,barren",21009.0,5.0
+963,"kentucky,bath",21011.0,5.0
+964,"kentucky,bell",21013.0,5.0
+965,"kentucky,boone",21015.0,3.0
+966,"kentucky,bourbon",21017.0,
+967,"kentucky,boyd",21019.0,5.0
+968,"kentucky,boyle",21021.0,3.0
+969,"kentucky,bracken",21023.0,5.0
+970,"kentucky,breathitt",21025.0,5.0
+971,"kentucky,breckinridge",21027.0,5.0
+972,"kentucky,bullitt",21029.0,5.0
+973,"kentucky,butler",21031.0,5.0
+974,"kentucky,caldwell",21033.0,5.0
+975,"kentucky,calloway",21035.0,3.0
+976,"kentucky,campbell",21037.0,5.0
+977,"kentucky,carlisle",21039.0,
+978,"kentucky,carroll",21041.0,5.0
+979,"kentucky,carter",21043.0,5.0
+980,"kentucky,casey",21045.0,5.0
+981,"kentucky,christian",21047.0,4.0
+982,"kentucky,clark",21049.0,5.0
+983,"kentucky,clay",21051.0,5.0
+984,"kentucky,clinton",21053.0,5.0
+985,"kentucky,crittenden",21055.0,5.0
+986,"kentucky,cumberland",21057.0,5.0
+987,"kentucky,daviess",21059.0,5.0
+988,"kentucky,edmonson",21061.0,5.0
+989,"kentucky,elliott",21063.0,5.0
+990,"kentucky,estill",21065.0,5.0
+991,"kentucky,fayette",21067.0,3.0
+992,"kentucky,fleming",21069.0,5.0
+993,"kentucky,floyd",21071.0,5.0
+994,"kentucky,franklin",21073.0,4.0
+995,"kentucky,fulton",21075.0,5.0
+996,"kentucky,gallatin",21077.0,5.0
+997,"kentucky,garrard",21079.0,5.0
+998,"kentucky,grant",21081.0,5.0
+999,"kentucky,graves",21083.0,5.0
+1000,"kentucky,grayson",21085.0,5.0
+1001,"kentucky,green",21087.0,5.0
+1002,"kentucky,greenup",21089.0,5.0
+1003,"kentucky,hancock",21091.0,3.0
+1004,"kentucky,hardin",21093.0,5.0
+1005,"kentucky,harlan",21095.0,5.0
+1006,"kentucky,harrison",21097.0,
+1007,"kentucky,hart",21099.0,5.0
+1008,"kentucky,henderson",21101.0,5.0
+1009,"kentucky,henry",21103.0,
+1010,"kentucky,hickman",21105.0,5.0
+1011,"kentucky,hopkins",21107.0,5.0
+1012,"kentucky,jackson",21109.0,5.0
+1013,"kentucky,jefferson",21111.0,5.0
+1014,"kentucky,jessamine",21113.0,5.0
+1015,"kentucky,johnson",21115.0,5.0
+1016,"kentucky,kenton",21117.0,5.0
+1017,"kentucky,knott",21119.0,5.0
+1018,"kentucky,knox",21121.0,5.0
+1019,"kentucky,larue",21123.0,5.0
+1020,"kentucky,laurel",21125.0,5.0
+1021,"kentucky,lawrence",21127.0,5.0
+1022,"kentucky,lee",21129.0,5.0
+1023,"kentucky,leslie",21131.0,5.0
+1024,"kentucky,letcher",21133.0,5.0
+1025,"kentucky,lewis",21135.0,5.0
+1026,"kentucky,lincoln",21137.0,5.0
+1027,"kentucky,livingston",21139.0,5.0
+1028,"kentucky,logan",21141.0,5.0
+1029,"kentucky,lyon",21143.0,
+1030,"kentucky,mccracken",21145.0,5.0
+1031,"kentucky,mccreary",21147.0,5.0
+1032,"kentucky,mclean",21149.0,5.0
+1033,"kentucky,madison",21151.0,4.0
+1034,"kentucky,magoffin",21153.0,5.0
+1035,"kentucky,marion",21155.0,5.0
+1036,"kentucky,marshall",21157.0,5.0
+1037,"kentucky,martin",21159.0,5.0
+1038,"kentucky,mason",21161.0,5.0
+1039,"kentucky,meade",21163.0,5.0
+1040,"kentucky,menifee",21165.0,5.0
+1041,"kentucky,mercer",21167.0,5.0
+1042,"kentucky,metcalfe",21169.0,5.0
+1043,"kentucky,monroe",21171.0,5.0
+1044,"kentucky,montgomery",21173.0,5.0
+1045,"kentucky,morgan",21175.0,5.0
+1046,"kentucky,muhlenberg",21177.0,5.0
+1047,"kentucky,nelson",21179.0,5.0
+1048,"kentucky,nicholas",21181.0,
+1049,"kentucky,ohio",21183.0,5.0
+1050,"kentucky,oldham",21185.0,3.0
+1051,"kentucky,owen",21187.0,5.0
+1052,"kentucky,owsley",21189.0,5.0
+1053,"kentucky,pendleton",21191.0,5.0
+1054,"kentucky,perry",21193.0,5.0
+1055,"kentucky,pike",21195.0,5.0
+1056,"kentucky,powell",21197.0,
+1057,"kentucky,pulaski",21199.0,5.0
+1058,"kentucky,robertson",21201.0,5.0
+1059,"kentucky,rockcastle",21203.0,5.0
+1060,"kentucky,rowan",21205.0,5.0
+1061,"kentucky,russell",21207.0,5.0
+1062,"kentucky,scott",21209.0,3.0
+1063,"kentucky,shelby",21211.0,4.0
+1064,"kentucky,simpson",21213.0,5.0
+1065,"kentucky,spencer",21215.0,
+1066,"kentucky,taylor",21217.0,5.0
+1067,"kentucky,todd",21219.0,5.0
+1068,"kentucky,trigg",21221.0,5.0
+1069,"kentucky,trimble",21223.0,
+1070,"kentucky,union",21225.0,5.0
+1071,"kentucky,warren",21227.0,4.0
+1072,"kentucky,washington",21229.0,3.0
+1073,"kentucky,wayne",21231.0,5.0
+1074,"kentucky,webster",21233.0,5.0
+1075,"kentucky,whitley",21235.0,5.0
+1076,"kentucky,wolfe",21237.0,5.0
+1077,"kentucky,woodford",21239.0,3.0
+1078,"louisiana,acadia",22001.0,4.0
+1079,"louisiana,allen",22003.0,3.0
+1080,"louisiana,ascension",22005.0,3.0
+1081,"louisiana,assumption",22007.0,4.0
+1082,"louisiana,avoyelles",22009.0,5.0
+1083,"louisiana,beauregard",22011.0,4.0
+1084,"louisiana,bienville",22013.0,5.0
+1085,"louisiana,bossier",22015.0,4.0
+1086,"louisiana,caddo",22017.0,3.0
+1087,"louisiana,calcasieu",22019.0,4.0
+1088,"louisiana,caldwell",22021.0,
+1089,"louisiana,cameron",22023.0,
+1090,"louisiana,catahoula",22025.0,5.0
+1091,"louisiana,claiborne",22027.0,4.0
+1092,"louisiana,concordia",22029.0,4.0
+1093,"louisiana,de soto",22031.0,4.0
+1094,"louisiana,east baton rouge",22033.0,3.0
+1095,"louisiana,east carroll",22035.0,5.0
+1096,"louisiana,east feliciana",22037.0,2.0
+1097,"louisiana,evangeline",22039.0,4.0
+1098,"louisiana,franklin",22041.0,4.0
+1099,"louisiana,grant",22043.0,5.0
+1100,"louisiana,iberia",22045.0,3.0
+1101,"louisiana,iberville",22047.0,3.0
+1102,"louisiana,jackson",22049.0,4.0
+1103,"louisiana,jefferson",22051.0,3.0
+1104,"louisiana,jefferson davis",22053.0,4.0
+1105,"louisiana,lafayette",22055.0,4.0
+1106,"louisiana,lafourche",22057.0,4.0
+1107,"louisiana,la salle",22059.0,5.0
+1108,"louisiana,lincoln",22061.0,4.0
+1109,"louisiana,livingston",22063.0,5.0
+1110,"louisiana,madison",22065.0,4.0
+1111,"louisiana,morehouse",22067.0,4.0
+1112,"louisiana,natchitoches",22069.0,4.0
+1113,"louisiana,orleans",22071.0,3.0
+1114,"louisiana,ouachita",22073.0,4.0
+1115,"louisiana,plaquemines",22075.0,3.0
+1116,"louisiana,pointe coupee",22077.0,
+1117,"louisiana,rapides",22079.0,4.0
+1118,"louisiana,red river",22081.0,5.0
+1119,"louisiana,richland",22083.0,4.0
+1120,"louisiana,sabine",22085.0,5.0
+1121,"louisiana,st bernard",22087.0,4.0
+1122,"louisiana,st charles",22089.0,3.0
+1123,"louisiana,st helena",22091.0,4.0
+1124,"louisiana,st james",22093.0,3.0
+1125,"louisiana,st john the baptist",22095.0,3.0
+1126,"louisiana,st landry",22097.0,4.0
+1127,"louisiana,st martin:north",22099.0,4.0
+1128,"louisiana,st martin:south",22100.0,
+1129,"louisiana,st mary",22101.0,4.0
+1130,"louisiana,st tammany",22103.0,3.0
+1131,"louisiana,tangipahoa",22105.0,3.0
+1132,"louisiana,tensas",22107.0,5.0
+1133,"louisiana,terrebonne",22109.0,4.0
+1134,"louisiana,union",22111.0,4.0
+1135,"louisiana,vermilion",22113.0,4.0
+1136,"louisiana,vernon",22115.0,5.0
+1137,"louisiana,washington",22117.0,5.0
+1138,"louisiana,webster",22119.0,4.0
+1139,"louisiana,west baton rouge",22121.0,4.0
+1140,"louisiana,west carroll",22123.0,4.0
+1141,"louisiana,west feliciana",22125.0,
+1142,"louisiana,winn",22127.0,4.0
+1143,"maine,androscoggin",23001.0,3.0
+1144,"maine,aroostook",23003.0,4.0
+1145,"maine,cumberland",23005.0,3.0
+1146,"maine,franklin",23007.0,2.0
+1147,"maine,hancock",23009.0,3.0
+1148,"maine,kennebec",23011.0,3.0
+1149,"maine,knox",23013.0,4.0
+1150,"maine,lincoln",23015.0,3.0
+1151,"maine,oxford",23017.0,3.0
+1152,"maine,penobscot",23019.0,3.0
+1153,"maine,piscataquis",23021.0,4.0
+1154,"maine,sagadahoc",23023.0,2.0
+1155,"maine,somerset",23025.0,5.0
+1156,"maine,waldo",23027.0,3.0
+1157,"maine,washington",23029.0,5.0
+1158,"maine,york",23031.0,3.0
+1159,"maryland,allegany",24001.0,4.0
+1160,"maryland,anne arundel",24003.0,3.0
+1161,"maryland,baltimore",24005.0,3.0
+1162,"maryland,calvert",24009.0,3.0
+1163,"maryland,caroline",24011.0,4.0
+1164,"maryland,carroll",24013.0,3.0
+1165,"maryland,cecil",24015.0,4.0
+1166,"maryland,charles",24017.0,3.0
+1167,"maryland,dorchester",24019.0,3.0
+1168,"maryland,frederick",24021.0,2.0
+1169,"maryland,garrett",24023.0,3.0
+1170,"maryland,harford",24025.0,3.0
+1171,"maryland,howard",24027.0,1.0
+1172,"maryland,kent",24029.0,3.0
+1173,"maryland,montgomery",24031.0,1.0
+1174,"maryland,prince georges",24033.0,1.0
+1175,"maryland,queen annes",24035.0,3.0
+1176,"maryland,st marys",24037.0,3.0
+1177,"maryland,somerset",24039.0,4.0
+1178,"maryland,talbot",24041.0,1.0
+1179,"maryland,washington",24043.0,3.0
+1180,"maryland,wicomico",24045.0,3.0
+1181,"maryland,worcester",24047.0,3.0
+1182,"maryland,baltimore city",24510.0,4.0
+1183,"massachusetts,barnstable",25001.0,2.0
+1184,"massachusetts,berkshire",25003.0,3.0
+1185,"massachusetts,bristol",25005.0,3.0
+1186,"massachusetts,dukes",25007.0,2.0
+1187,"massachusetts,essex",25009.0,3.0
+1188,"massachusetts,franklin",25011.0,1.0
+1189,"massachusetts,hampden",25013.0,3.0
+1190,"massachusetts,hampshire",25015.0,1.0
+1191,"massachusetts,middlesex",25017.0,1.0
+1192,"massachusetts,nantucket",25019.0,2.0
+1193,"massachusetts,norfolk",25021.0,1.0
+1194,"massachusetts,plymouth",25023.0,3.0
+1195,"massachusetts,suffolk",25025.0,1.0
+1196,"massachusetts,worcester",25027.0,3.0
+1197,"michigan,alcona",26001.0,
+1198,"michigan,alger",26003.0,
+1199,"michigan,allegan",26005.0,1.0
+1200,"michigan,alpena",26007.0,3.0
+1201,"michigan,antrim",26009.0,2.0
+1202,"michigan,arenac",26011.0,
+1203,"michigan,baraga",26013.0,
+1204,"michigan,barry",26015.0,3.0
+1205,"michigan,bay",26017.0,4.0
+1206,"michigan,benzie",26019.0,
+1207,"michigan,berrien",26021.0,3.0
+1208,"michigan,branch",26023.0,3.0
+1209,"michigan,calhoun",26025.0,4.0
+1210,"michigan,cass",26027.0,4.0
+1211,"michigan,charlevoix",26029.0,3.0
+1212,"michigan,cheboygan",26031.0,2.0
+1213,"michigan,chippewa",26033.0,3.0
+1214,"michigan,clare",26035.0,5.0
+1215,"michigan,clinton",26037.0,1.0
+1216,"michigan,crawford",26039.0,
+1217,"michigan,delta",26041.0,2.0
+1218,"michigan,dickinson",26043.0,2.0
+1219,"michigan,eaton",26045.0,3.0
+1220,"michigan,emmet",26047.0,3.0
+1221,"michigan,genesee",26049.0,4.0
+1222,"michigan,gladwin",26051.0,4.0
+1223,"michigan,gogebic",26053.0,3.0
+1224,"michigan,grand traverse",26055.0,3.0
+1225,"michigan,gratiot",26057.0,3.0
+1226,"michigan,hillsdale",26059.0,2.0
+1227,"michigan,houghton",26061.0,1.0
+1228,"michigan,huron",26063.0,3.0
+1229,"michigan,ingham",26065.0,2.0
+1230,"michigan,ionia",26067.0,3.0
+1231,"michigan,iosco",26069.0,4.0
+1232,"michigan,iron",26071.0,2.0
+1233,"michigan,isabella",26073.0,3.0
+1234,"michigan,jackson",26075.0,3.0
+1235,"michigan,kalamazoo",26077.0,2.0
+1236,"michigan,kalkaska",26079.0,5.0
+1237,"michigan,kent",26081.0,2.0
+1238,"michigan,keweenaw",26083.0,
+1239,"michigan,lake",26085.0,
+1240,"michigan,lapeer",26087.0,3.0
+1241,"michigan,leelanau",26089.0,
+1242,"michigan,lenawee",26091.0,2.0
+1243,"michigan,livingston",26093.0,1.0
+1244,"michigan,luce",26095.0,
+1245,"michigan,mackinac",26097.0,
+1246,"michigan,macomb",26099.0,2.0
+1247,"michigan,manistee",26101.0,2.0
+1248,"michigan,marquette",26103.0,3.0
+1249,"michigan,mason",26105.0,4.0
+1250,"michigan,mecosta",26107.0,4.0
+1251,"michigan,menominee",26109.0,2.0
+1252,"michigan,midland",26111.0,3.0
+1253,"michigan,missaukee",26113.0,
+1254,"michigan,monroe",26115.0,3.0
+1255,"michigan,montcalm",26117.0,4.0
+1256,"michigan,montmorency",26119.0,
+1257,"michigan,muskegon",26121.0,4.0
+1258,"michigan,newaygo",26123.0,4.0
+1259,"michigan,oakland",26125.0,2.0
+1260,"michigan,oceana",26127.0,5.0
+1261,"michigan,ogemaw",26129.0,4.0
+1262,"michigan,ontonagon",26131.0,
+1263,"michigan,osceola",26133.0,3.0
+1264,"michigan,oscoda",26135.0,
+1265,"michigan,otsego",26137.0,2.0
+1266,"michigan,ottawa",26139.0,2.0
+1267,"michigan,presque isle",26141.0,1.0
+1268,"michigan,roscommon",26143.0,4.0
+1269,"michigan,saginaw",26145.0,3.0
+1270,"michigan,st clair",26147.0,4.0
+1271,"michigan,st joseph",26149.0,4.0
+1272,"michigan,sanilac",26151.0,2.0
+1273,"michigan,schoolcraft",26153.0,
+1274,"michigan,shiawassee",26155.0,4.0
+1275,"michigan,tuscola",26157.0,3.0
+1276,"michigan,van buren",26159.0,3.0
+1277,"michigan,washtenaw",26161.0,1.0
+1278,"michigan,wayne",26163.0,3.0
+1279,"michigan,wexford",26165.0,4.0
+1280,"minnesota,aitkin",27001.0,1.0
+1281,"minnesota,anoka",27003.0,1.0
+1282,"minnesota,becker",27005.0,1.0
+1283,"minnesota,beltrami",27007.0,1.0
+1284,"minnesota,benton",27009.0,1.0
+1285,"minnesota,big stone",27011.0,
+1286,"minnesota,blue earth",27013.0,1.0
+1287,"minnesota,brown",27015.0,2.0
+1288,"minnesota,carlton",27017.0,1.0
+1289,"minnesota,carver",27019.0,1.0
+1290,"minnesota,cass",27021.0,1.0
+1291,"minnesota,chippewa",27023.0,
+1292,"minnesota,chisago",27025.0,1.0
+1293,"minnesota,clay",27027.0,1.0
+1294,"minnesota,clearwater",27029.0,1.0
+1295,"minnesota,cook",27031.0,
+1296,"minnesota,cottonwood",27033.0,
+1297,"minnesota,crow wing",27035.0,1.0
+1298,"minnesota,dakota",27037.0,1.0
+1299,"minnesota,dodge",27039.0,1.0
+1300,"minnesota,douglas",27041.0,1.0
+1301,"minnesota,faribault",27043.0,
+1302,"minnesota,fillmore",27045.0,1.0
+1303,"minnesota,freeborn",27047.0,3.0
+1304,"minnesota,goodhue",27049.0,3.0
+1305,"minnesota,grant",27051.0,
+1306,"minnesota,hennepin",27053.0,1.0
+1307,"minnesota,houston",27055.0,1.0
+1308,"minnesota,hubbard",27057.0,1.0
+1309,"minnesota,isanti",27059.0,1.0
+1310,"minnesota,itasca",27061.0,1.0
+1311,"minnesota,jackson",27063.0,1.0
+1312,"minnesota,kanabec",27065.0,1.0
+1313,"minnesota,kandiyohi",27067.0,1.0
+1314,"minnesota,kittson",27069.0,
+1315,"minnesota,koochiching",27071.0,1.0
+1316,"minnesota,lac qui parle",27073.0,
+1317,"minnesota,lake",27075.0,2.0
+1318,"minnesota,lake of the woods",27077.0,
+1319,"minnesota,le sueur",27079.0,1.0
+1320,"minnesota,lincoln",27081.0,
+1321,"minnesota,lyon",27083.0,1.0
+1322,"minnesota,mcleod",27085.0,1.0
+1323,"minnesota,mahnomen",27087.0,3.0
+1324,"minnesota,marshall",27089.0,
+1325,"minnesota,martin",27091.0,1.0
+1326,"minnesota,meeker",27093.0,1.0
+1327,"minnesota,mille lacs",27095.0,1.0
+1328,"minnesota,morrison",27097.0,1.0
+1329,"minnesota,mower",27099.0,1.0
+1330,"minnesota,murray",27101.0,
+1331,"minnesota,nicollet",27103.0,1.0
+1332,"minnesota,nobles",27105.0,1.0
+1333,"minnesota,norman",27107.0,
+1334,"minnesota,olmsted",27109.0,1.0
+1335,"minnesota,otter tail",27111.0,1.0
+1336,"minnesota,pennington",27113.0,1.0
+1337,"minnesota,pine",27115.0,1.0
+1338,"minnesota,pipestone",27117.0,
+1339,"minnesota,polk",27119.0,2.0
+1340,"minnesota,pope",27121.0,1.0
+1341,"minnesota,ramsey",27123.0,1.0
+1342,"minnesota,red lake",27125.0,
+1343,"minnesota,redwood",27127.0,1.0
+1344,"minnesota,renville",27129.0,
+1345,"minnesota,rice",27131.0,1.0
+1346,"minnesota,rock",27133.0,
+1347,"minnesota,roseau",27135.0,
+1348,"minnesota,st louis",27137.0,2.0
+1349,"minnesota,scott",27139.0,1.0
+1350,"minnesota,sherburne",27141.0,1.0
+1351,"minnesota,sibley",27143.0,
+1352,"minnesota,stearns",27145.0,1.0
+1353,"minnesota,steele",27147.0,
+1354,"minnesota,stevens",27149.0,
+1355,"minnesota,swift",27151.0,
+1356,"minnesota,todd",27153.0,1.0
+1357,"minnesota,traverse",27155.0,
+1358,"minnesota,wabasha",27157.0,1.0
+1359,"minnesota,wadena",27159.0,
+1360,"minnesota,waseca",27161.0,
+1361,"minnesota,washington",27163.0,1.0
+1362,"minnesota,watonwan",27165.0,
+1363,"minnesota,wilkin",27167.0,
+1364,"minnesota,winona",27169.0,1.0
+1365,"minnesota,wright",27171.0,1.0
+1366,"minnesota,yellow medicine",27173.0,1.0
+1367,"mississippi,adams",28001.0,4.0
+1368,"mississippi,alcorn",28003.0,5.0
+1369,"mississippi,amite",28005.0,2.0
+1370,"mississippi,attala",28007.0,2.0
+1371,"mississippi,benton",28009.0,
+1372,"mississippi,bolivar",28011.0,4.0
+1373,"mississippi,calhoun",28013.0,4.0
+1374,"mississippi,carroll",28015.0,5.0
+1375,"mississippi,chickasaw",28017.0,2.0
+1376,"mississippi,choctaw",28019.0,3.0
+1377,"mississippi,claiborne",28021.0,4.0
+1378,"mississippi,clarke",28023.0,4.0
+1379,"mississippi,clay",28025.0,3.0
+1380,"mississippi,coahoma",28027.0,5.0
+1381,"mississippi,copiah",28029.0,5.0
+1382,"mississippi,covington",28031.0,5.0
+1383,"mississippi,de soto",28033.0,4.0
+1384,"mississippi,forrest",28035.0,4.0
+1385,"mississippi,franklin",28037.0,5.0
+1386,"mississippi,george",28039.0,5.0
+1387,"mississippi,greene",28041.0,5.0
+1388,"mississippi,grenada",28043.0,5.0
+1389,"mississippi,hancock",28045.0,5.0
+1390,"mississippi,harrison",28047.0,5.0
+1391,"mississippi,hinds",28049.0,3.0
+1392,"mississippi,holmes",28051.0,5.0
+1393,"mississippi,humphreys",28053.0,4.0
+1394,"mississippi,issaquena",28055.0,
+1395,"mississippi,itawamba",28057.0,5.0
+1396,"mississippi,jackson",28059.0,4.0
+1397,"mississippi,jasper",28061.0,4.0
+1398,"mississippi,jefferson",28063.0,4.0
+1399,"mississippi,jefferson davis",28065.0,5.0
+1400,"mississippi,jones",28067.0,3.0
+1401,"mississippi,kemper",28069.0,5.0
+1402,"mississippi,lafayette",28071.0,3.0
+1403,"mississippi,lamar",28073.0,3.0
+1404,"mississippi,lauderdale",28075.0,4.0
+1405,"mississippi,lawrence",28077.0,5.0
+1406,"mississippi,leake",28079.0,5.0
+1407,"mississippi,lee",28081.0,5.0
+1408,"mississippi,leflore",28083.0,4.0
+1409,"mississippi,lincoln",28085.0,4.0
+1410,"mississippi,lowndes",28087.0,3.0
+1411,"mississippi,madison",28089.0,3.0
+1412,"mississippi,marion",28091.0,4.0
+1413,"mississippi,marshall",28093.0,5.0
+1414,"mississippi,monroe",28095.0,4.0
+1415,"mississippi,montgomery",28097.0,2.0
+1416,"mississippi,neshoba",28099.0,5.0
+1417,"mississippi,newton",28101.0,4.0
+1418,"mississippi,noxubee",28103.0,2.0
+1419,"mississippi,oktibbeha",28105.0,3.0
+1420,"mississippi,panola",28107.0,5.0
+1421,"mississippi,pearl river",28109.0,5.0
+1422,"mississippi,perry",28111.0,5.0
+1423,"mississippi,pike",28113.0,4.0
+1424,"mississippi,pontotoc",28115.0,4.0
+1425,"mississippi,prentiss",28117.0,5.0
+1426,"mississippi,quitman",28119.0,5.0
+1427,"mississippi,rankin",28121.0,3.0
+1428,"mississippi,scott",28123.0,5.0
+1429,"mississippi,sharkey",28125.0,
+1430,"mississippi,simpson",28127.0,4.0
+1431,"mississippi,smith",28129.0,2.0
+1432,"mississippi,stone",28131.0,5.0
+1433,"mississippi,sunflower",28133.0,3.0
+1434,"mississippi,tallahatchie",28135.0,4.0
+1435,"mississippi,tate",28137.0,5.0
+1436,"mississippi,tippah",28139.0,5.0
+1437,"mississippi,tishomingo",28141.0,5.0
+1438,"mississippi,tunica",28143.0,4.0
+1439,"mississippi,union",28145.0,4.0
+1440,"mississippi,walthall",28147.0,4.0
+1441,"mississippi,warren",28149.0,4.0
+1442,"mississippi,washington",28151.0,4.0
+1443,"mississippi,wayne",28153.0,4.0
+1444,"mississippi,webster",28155.0,5.0
+1445,"mississippi,wilkinson",28157.0,5.0
+1446,"mississippi,winston",28159.0,4.0
+1447,"mississippi,yalobusha",28161.0,5.0
+1448,"mississippi,yazoo",28163.0,4.0
+1449,"missouri,adair",29001.0,2.0
+1450,"missouri,andrew",29003.0,2.0
+1451,"missouri,atchison",29005.0,2.0
+1452,"missouri,audrain",29007.0,5.0
+1453,"missouri,barry",29009.0,4.0
+1454,"missouri,barton",29011.0,
+1455,"missouri,bates",29013.0,3.0
+1456,"missouri,benton",29015.0,
+1457,"missouri,bollinger",29017.0,5.0
+1458,"missouri,boone",29019.0,2.0
+1459,"missouri,buchanan",29021.0,5.0
+1460,"missouri,butler",29023.0,5.0
+1461,"missouri,caldwell",29025.0,
+1462,"missouri,callaway",29027.0,4.0
+1463,"missouri,camden",29029.0,3.0
+1464,"missouri,cape girardeau",29031.0,3.0
+1465,"missouri,carroll",29033.0,5.0
+1466,"missouri,carter",29035.0,
+1467,"missouri,cass",29037.0,4.0
+1468,"missouri,cedar",29039.0,
+1469,"missouri,chariton",29041.0,2.0
+1470,"missouri,christian",29043.0,2.0
+1471,"missouri,clark",29045.0,5.0
+1472,"missouri,clay",29047.0,3.0
+1473,"missouri,clinton",29049.0,4.0
+1474,"missouri,cole",29051.0,2.0
+1475,"missouri,cooper",29053.0,
+1476,"missouri,crawford",29055.0,5.0
+1477,"missouri,dade",29057.0,
+1478,"missouri,dallas",29059.0,
+1479,"missouri,daviess",29061.0,2.0
+1480,"missouri,de kalb",29063.0,2.0
+1481,"missouri,dent",29065.0,
+1482,"missouri,douglas",29067.0,5.0
+1483,"missouri,dunklin",29069.0,5.0
+1484,"missouri,franklin",29071.0,4.0
+1485,"missouri,gasconade",29073.0,5.0
+1486,"missouri,gentry",29075.0,3.0
+1487,"missouri,greene",29077.0,2.0
+1488,"missouri,grundy",29079.0,2.0
+1489,"missouri,harrison",29081.0,3.0
+1490,"missouri,henry",29083.0,4.0
+1491,"missouri,hickory",29085.0,3.0
+1492,"missouri,holt",29087.0,
+1493,"missouri,howard",29089.0,2.0
+1494,"missouri,howell",29091.0,4.0
+1495,"missouri,iron",29093.0,5.0
+1496,"missouri,jackson",29095.0,4.0
+1497,"missouri,jasper",29097.0,3.0
+1498,"missouri,jefferson",29099.0,5.0
+1499,"missouri,johnson",29101.0,3.0
+1500,"missouri,knox",29103.0,
+1501,"missouri,laclede",29105.0,4.0
+1502,"missouri,lafayette",29107.0,3.0
+1503,"missouri,lawrence",29109.0,3.0
+1504,"missouri,lewis",29111.0,5.0
+1505,"missouri,lincoln",29113.0,5.0
+1506,"missouri,linn",29115.0,5.0
+1507,"missouri,livingston",29117.0,3.0
+1508,"missouri,mcdonald",29119.0,5.0
+1509,"missouri,macon",29121.0,2.0
+1510,"missouri,madison",29123.0,
+1511,"missouri,maries",29125.0,
+1512,"missouri,marion",29127.0,5.0
+1513,"missouri,mercer",29129.0,
+1514,"missouri,miller",29131.0,5.0
+1515,"missouri,mississippi",29133.0,
+1516,"missouri,moniteau",29135.0,
+1517,"missouri,monroe",29137.0,3.0
+1518,"missouri,montgomery",29139.0,
+1519,"missouri,morgan",29141.0,5.0
+1520,"missouri,new madrid",29143.0,
+1521,"missouri,newton",29145.0,3.0
+1522,"missouri,nodaway",29147.0,3.0
+1523,"missouri,oregon",29149.0,
+1524,"missouri,osage",29151.0,1.0
+1525,"missouri,ozark",29153.0,
+1526,"missouri,pemiscot",29155.0,5.0
+1527,"missouri,perry",29157.0,3.0
+1528,"missouri,pettis",29159.0,3.0
+1529,"missouri,phelps",29161.0,4.0
+1530,"missouri,pike",29163.0,4.0
+1531,"missouri,platte",29165.0,2.0
+1532,"missouri,polk",29167.0,3.0
+1533,"missouri,pulaski",29169.0,4.0
+1534,"missouri,putnam",29171.0,
+1535,"missouri,ralls",29173.0,
+1536,"missouri,randolph",29175.0,4.0
+1537,"missouri,ray",29177.0,5.0
+1538,"missouri,reynolds",29179.0,3.0
+1539,"missouri,ripley",29181.0,5.0
+1540,"missouri,st charles",29183.0,3.0
+1541,"missouri,st clair",29185.0,
+1542,"missouri,st francois",29187.0,5.0
+1543,"missouri,st louis",29189.0,3.0
+1544,"missouri,st louis city",29510.0,5.0
+1545,"missouri,ste genevieve",29190.0,
+1546,"missouri,saline",29195.0,4.0
+1547,"missouri,schuyler",29197.0,
+1548,"missouri,scotland",29199.0,1.0
+1549,"missouri,scott",29201.0,5.0
+1550,"missouri,shannon",29203.0,3.0
+1551,"missouri,shelby",29205.0,4.0
+1552,"missouri,stoddard",29207.0,5.0
+1553,"missouri,stone",29209.0,
+1554,"missouri,sullivan",29211.0,5.0
+1555,"missouri,taney",29213.0,4.0
+1556,"missouri,texas",29215.0,3.0
+1557,"missouri,vernon",29217.0,4.0
+1558,"missouri,warren",29219.0,4.0
+1559,"missouri,washington",29221.0,5.0
+1560,"missouri,wayne",29223.0,5.0
+1561,"missouri,webster",29225.0,3.0
+1562,"missouri,worth",29227.0,
+1563,"missouri,wright",29229.0,5.0
+1564,"montana,beaverhead",30001.0,1.0
+1565,"montana,big horn",30003.0,1.0
+1566,"montana,blaine",30005.0,2.0
+1567,"montana,broadwater",30007.0,1.0
+1568,"montana,carbon",30009.0,1.0
+1569,"montana,carter",30011.0,
+1570,"montana,cascade",30013.0,3.0
+1571,"montana,chouteau",30015.0,2.0
+1572,"montana,custer",30017.0,1.0
+1573,"montana,daniels",30019.0,
+1574,"montana,dawson",30021.0,1.0
+1575,"montana,deer lodge",30023.0,2.0
+1576,"montana,fallon",30025.0,
+1577,"montana,fergus",30027.0,1.0
+1578,"montana,flathead",30029.0,2.0
+1579,"montana,gallatin",30031.0,1.0
+1580,"montana,garfield",30033.0,
+1581,"montana,glacier",30035.0,5.0
+1582,"montana,golden valley",30037.0,
+1583,"montana,granite",30039.0,
+1584,"montana,hill",30041.0,1.0
+1585,"montana,jefferson",30043.0,2.0
+1586,"montana,judith basin",30045.0,
+1587,"montana,lake",30047.0,1.0
+1588,"montana,lewis and clark",30049.0,2.0
+1589,"montana,liberty",30051.0,
+1590,"montana,lincoln",30053.0,3.0
+1591,"montana,mccone",30055.0,
+1592,"montana,madison",30057.0,1.0
+1593,"montana,meagher",30059.0,
+1594,"montana,mineral",30061.0,2.0
+1595,"montana,missoula",30063.0,2.0
+1596,"montana,musselshell",30065.0,1.0
+1597,"montana,park",30067.0,1.0
+1598,"montana,petroleum",30069.0,
+1599,"montana,phillips",30071.0,1.0
+1600,"montana,pondera",30073.0,1.0
+1601,"montana,powder river",30075.0,
+1602,"montana,powell",30077.0,5.0
+1603,"montana,prairie",30079.0,
+1604,"montana,ravalli",30081.0,1.0
+1605,"montana,richland",30083.0,1.0
+1606,"montana,roosevelt",30085.0,3.0
+1607,"montana,rosebud",30087.0,1.0
+1608,"montana,sanders",30089.0,2.0
+1609,"montana,sheridan",30091.0,2.0
+1610,"montana,silver bow",30093.0,2.0
+1611,"montana,stillwater",30095.0,1.0
+1612,"montana,sweet grass",30097.0,
+1613,"montana,teton",30099.0,1.0
+1614,"montana,toole",30101.0,1.0
+1615,"montana,treasure",30103.0,
+1616,"montana,valley",30105.0,2.0
+1617,"montana,wheatland",30107.0,
+1618,"montana,wibaux",30109.0,
+1619,"montana,yellowstone",30111.0,2.0
+1620,"montana,yellowstone national",30112.0,
+1621,"nebraska,adams",31001.0,2.0
+1622,"nebraska,antelope",31003.0,1.0
+1623,"nebraska,arthur",31005.0,
+1624,"nebraska,banner",31007.0,
+1625,"nebraska,blaine",31009.0,
+1626,"nebraska,boone",31011.0,1.0
+1627,"nebraska,box butte",31013.0,1.0
+1628,"nebraska,boyd",31015.0,
+1629,"nebraska,brown",31017.0,2.0
+1630,"nebraska,buffalo",31019.0,2.0
+1631,"nebraska,burt",31021.0,3.0
+1632,"nebraska,butler",31023.0,1.0
+1633,"nebraska,cass",31025.0,2.0
+1634,"nebraska,cedar",31027.0,1.0
+1635,"nebraska,chase",31029.0,1.0
+1636,"nebraska,cherry",31031.0,1.0
+1637,"nebraska,cheyenne",31033.0,1.0
+1638,"nebraska,clay",31035.0,1.0
+1639,"nebraska,colfax",31037.0,1.0
+1640,"nebraska,cuming",31039.0,1.0
+1641,"nebraska,custer",31041.0,1.0
+1642,"nebraska,dakota",31043.0,3.0
+1643,"nebraska,dawes",31045.0,1.0
+1644,"nebraska,dawson",31047.0,1.0
+1645,"nebraska,deuel",31049.0,
+1646,"nebraska,dixon",31051.0,2.0
+1647,"nebraska,dodge",31053.0,3.0
+1648,"nebraska,douglas",31055.0,3.0
+1649,"nebraska,dundy",31057.0,
+1650,"nebraska,fillmore",31059.0,1.0
+1651,"nebraska,franklin",31061.0,
+1652,"nebraska,frontier",31063.0,
+1653,"nebraska,furnas",31065.0,2.0
+1654,"nebraska,gage",31067.0,3.0
+1655,"nebraska,garden",31069.0,1.0
+1656,"nebraska,garfield",31071.0,
+1657,"nebraska,gosper",31073.0,
+1658,"nebraska,grant",31075.0,
+1659,"nebraska,greeley",31077.0,
+1660,"nebraska,hall",31079.0,2.0
+1661,"nebraska,hamilton",31081.0,2.0
+1662,"nebraska,harlan",31083.0,
+1663,"nebraska,hayes",31085.0,
+1664,"nebraska,hitchcock",31087.0,1.0
+1665,"nebraska,holt",31089.0,1.0
+1666,"nebraska,hooker",31091.0,
+1667,"nebraska,howard",31093.0,2.0
+1668,"nebraska,jefferson",31095.0,2.0
+1669,"nebraska,johnson",31097.0,3.0
+1670,"nebraska,kearney",31099.0,2.0
+1671,"nebraska,keith",31101.0,1.0
+1672,"nebraska,keya paha",31103.0,
+1673,"nebraska,kimball",31105.0,1.0
+1674,"nebraska,knox",31107.0,1.0
+1675,"nebraska,lancaster",31109.0,2.0
+1676,"nebraska,lincoln",31111.0,2.0
+1677,"nebraska,logan",31113.0,
+1678,"nebraska,loup",31115.0,
+1679,"nebraska,mcpherson",31117.0,
+1680,"nebraska,madison",31119.0,2.0
+1681,"nebraska,merrick",31121.0,1.0
+1682,"nebraska,morrill",31123.0,1.0
+1683,"nebraska,nance",31125.0,1.0
+1684,"nebraska,nemaha",31127.0,3.0
+1685,"nebraska,nuckolls",31129.0,1.0
+1686,"nebraska,otoe",31131.0,2.0
+1687,"nebraska,pawnee",31133.0,1.0
+1688,"nebraska,perkins",31135.0,
+1689,"nebraska,phelps",31137.0,1.0
+1690,"nebraska,pierce",31139.0,2.0
+1691,"nebraska,platte",31141.0,1.0
+1692,"nebraska,polk",31143.0,1.0
+1693,"nebraska,red willow",31145.0,2.0
+1694,"nebraska,richardson",31147.0,3.0
+1695,"nebraska,rock",31149.0,
+1696,"nebraska,saline",31151.0,1.0
+1697,"nebraska,sarpy",31153.0,3.0
+1698,"nebraska,saunders",31155.0,3.0
+1699,"nebraska,scotts bluff",31157.0,1.0
+1700,"nebraska,seward",31159.0,1.0
+1701,"nebraska,sheridan",31161.0,1.0
+1702,"nebraska,sherman",31163.0,1.0
+1703,"nebraska,sioux",31165.0,
+1704,"nebraska,stanton",31167.0,1.0
+1705,"nebraska,thayer",31169.0,2.0
+1706,"nebraska,thomas",31171.0,
+1707,"nebraska,thurston",31173.0,3.0
+1708,"nebraska,valley",31175.0,1.0
+1709,"nebraska,washington",31177.0,1.0
+1710,"nebraska,wayne",31179.0,1.0
+1711,"nebraska,webster",31181.0,1.0
+1712,"nebraska,wheeler",31183.0,
+1713,"nebraska,york",31185.0,2.0
+1714,"nevada,carson city",32510.0,1.0
+1715,"nevada,churchill",32001.0,1.0
+1716,"nevada,clark",32003.0,1.0
+1717,"nevada,douglas",32005.0,1.0
+1718,"nevada,elko",32007.0,1.0
+1719,"nevada,esmeralda",32009.0,
+1720,"nevada,eureka",32011.0,
+1721,"nevada,humboldt",32013.0,1.0
+1722,"nevada,lander",32015.0,
+1723,"nevada,lincoln",32017.0,1.0
+1724,"nevada,lyon",32019.0,2.0
+1725,"nevada,mineral",32021.0,1.0
+1726,"nevada,nye",32023.0,1.0
+1727,"nevada,pershing",32027.0,1.0
+1728,"nevada,storey",32029.0,1.0
+1729,"nevada,washoe",32031.0,1.0
+1730,"nevada,white pine",32033.0,1.0
+1731,"new hampshire,belknap",33001.0,3.0
+1732,"new hampshire,carroll",33003.0,3.0
+1733,"new hampshire,cheshire",33005.0,3.0
+1734,"new hampshire,coos",33007.0,3.0
+1735,"new hampshire,grafton",33009.0,1.0
+1736,"new hampshire,hillsborough",33011.0,2.0
+1737,"new hampshire,merrimack",33013.0,3.0
+1738,"new hampshire,rockingham",33015.0,3.0
+1739,"new hampshire,strafford",33017.0,3.0
+1740,"new hampshire,sullivan",33019.0,3.0
+1741,"new jersey,atlantic",34001.0,3.0
+1742,"new jersey,bergen",34003.0,1.0
+1743,"new jersey,burlington",34005.0,3.0
+1744,"new jersey,camden",34007.0,3.0
+1745,"new jersey,cape may",34009.0,3.0
+1746,"new jersey,cumberland",34011.0,4.0
+1747,"new jersey,essex",34013.0,1.0
+1748,"new jersey,gloucester",34015.0,3.0
+1749,"new jersey,hudson",34017.0,1.0
+1750,"new jersey,hunterdon",34019.0,1.0
+1751,"new jersey,mercer",34021.0,1.0
+1752,"new jersey,middlesex",34023.0,1.0
+1753,"new jersey,monmouth",34025.0,2.0
+1754,"new jersey,morris",34027.0,1.0
+1755,"new jersey,ocean",34029.0,3.0
+1756,"new jersey,passaic",34031.0,1.0
+1757,"new jersey,salem",34033.0,4.0
+1758,"new jersey,somerset",34035.0,1.0
+1759,"new jersey,sussex",34037.0,2.0
+1760,"new jersey,union",34039.0,1.0
+1761,"new jersey,warren",34041.0,2.0
+1762,"new mexico,bernalillo",35001.0,1.0
+1763,"new mexico,catron",35003.0,1.0
+1764,"new mexico,chaves",35005.0,2.0
+1765,"new mexico,cibola",35006.0,1.0
+1766,"new mexico,colfax",35007.0,1.0
+1767,"new mexico,curry",35009.0,1.0
+1768,"new mexico,de baca",35011.0,
+1769,"new mexico,dona ana",35013.0,1.0
+1770,"new mexico,eddy",35015.0,1.0
+1771,"new mexico,grant",35017.0,1.0
+1772,"new mexico,guadalupe",35019.0,1.0
+1773,"new mexico,harding",35021.0,
+1774,"new mexico,hidalgo",35023.0,
+1775,"new mexico,lea",35025.0,2.0
+1776,"new mexico,lincoln",35027.0,1.0
+1777,"new mexico,los alamos",35028.0,1.0
+1778,"new mexico,luna",35029.0,1.0
+1779,"new mexico,mckinley",35031.0,1.0
+1780,"new mexico,mora",35033.0,1.0
+1781,"new mexico,otero",35035.0,2.0
+1782,"new mexico,quay",35037.0,1.0
+1783,"new mexico,rio arriba",35039.0,1.0
+1784,"new mexico,roosevelt",35041.0,1.0
+1785,"new mexico,san juan",35043.0,1.0
+1786,"new mexico,san miguel",35045.0,2.0
+1787,"new mexico,sandoval",35047.0,1.0
+1788,"new mexico,santa fe",35049.0,1.0
+1789,"new mexico,sierra",35051.0,2.0
+1790,"new mexico,socorro",35053.0,1.0
+1791,"new mexico,taos",35055.0,1.0
+1792,"new mexico,torrance",35057.0,1.0
+1793,"new mexico,union",35059.0,1.0
+1794,"new mexico,valencia",35061.0,1.0
+1795,"new york,albany",36001.0,3.0
+1796,"new york,allegany",36003.0,3.0
+1797,"new york,bronx",36005.0,1.0
+1798,"new york,broome",36007.0,3.0
+1799,"new york,cattaraugus",36009.0,3.0
+1800,"new york,cayuga",36011.0,4.0
+1801,"new york,chautauqua",36013.0,4.0
+1802,"new york,chemung",36015.0,3.0
+1803,"new york,chenango",36017.0,3.0
+1804,"new york,clinton",36019.0,3.0
+1805,"new york,columbia",36021.0,3.0
+1806,"new york,cortland",36023.0,3.0
+1807,"new york,delaware",36025.0,3.0
+1808,"new york,dutchess",36027.0,3.0
+1809,"new york,erie",36029.0,3.0
+1810,"new york,essex",36031.0,3.0
+1811,"new york,franklin",36033.0,2.0
+1812,"new york,fulton",36035.0,3.0
+1813,"new york,genesee",36037.0,3.0
+1814,"new york,greene",36039.0,4.0
+1815,"new york,hamilton",36041.0,
+1816,"new york,herkimer",36043.0,3.0
+1817,"new york,jefferson",36045.0,4.0
+1818,"new york,kings",36047.0,1.0
+1819,"new york,lewis",36049.0,3.0
+1820,"new york,livingston",36051.0,3.0
+1821,"new york,madison",36053.0,4.0
+1822,"new york,monroe",36055.0,2.0
+1823,"new york,montgomery",36057.0,3.0
+1824,"new york,nassau",36059.0,2.0
+1825,"new york,new york",36061.0,1.0
+1826,"new york,niagara",36063.0,4.0
+1827,"new york,oneida",36065.0,4.0
+1828,"new york,onondaga",36067.0,3.0
+1829,"new york,ontario",36069.0,3.0
+1830,"new york,orange",36071.0,3.0
+1831,"new york,orleans",36073.0,5.0
+1832,"new york,oswego",36075.0,4.0
+1833,"new york,otsego",36077.0,3.0
+1834,"new york,putnam",36079.0,3.0
+1835,"new york,queens",36081.0,1.0
+1836,"new york,rensselaer",36083.0,3.0
+1837,"new york,richmond",36085.0,2.0
+1838,"new york,rockland",36087.0,1.0
+1839,"new york,st lawrence",36089.0,4.0
+1840,"new york,saratoga",36091.0,2.0
+1841,"new york,schenectady",36093.0,3.0
+1842,"new york,schoharie",36095.0,3.0
+1843,"new york,schuyler",36097.0,4.0
+1844,"new york,seneca",36099.0,4.0
+1845,"new york,steuben",36101.0,3.0
+1846,"new york,suffolk",36103.0,3.0
+1847,"new york,sullivan",36105.0,3.0
+1848,"new york,tioga",36107.0,3.0
+1849,"new york,tompkins",36109.0,1.0
+1850,"new york,ulster",36111.0,3.0
+1851,"new york,warren",36113.0,3.0
+1852,"new york,washington",36115.0,3.0
+1853,"new york,wayne",36117.0,3.0
+1854,"new york,westchester",36119.0,1.0
+1855,"new york,wyoming",36121.0,3.0
+1856,"new york,yates",36123.0,
+1857,"north carolina,alamance",37001.0,3.0
+1858,"north carolina,alexander",37003.0,3.0
+1859,"north carolina,alleghany",37005.0,4.0
+1860,"north carolina,anson",37007.0,
+1861,"north carolina,ashe",37009.0,2.0
+1862,"north carolina,avery",37011.0,3.0
+1863,"north carolina,beaufort",37013.0,4.0
+1864,"north carolina,bertie",37015.0,2.0
+1865,"north carolina,bladen",37017.0,3.0
+1866,"north carolina,brunswick",37019.0,3.0
+1867,"north carolina,buncombe",37021.0,3.0
+1868,"north carolina,burke",37023.0,4.0
+1869,"north carolina,cabarrus",37025.0,3.0
+1870,"north carolina,caldwell",37027.0,4.0
+1871,"north carolina,camden",37029.0,1.0
+1872,"north carolina,carteret",37031.0,3.0
+1873,"north carolina,caswell",37033.0,5.0
+1874,"north carolina,catawba",37035.0,4.0
+1875,"north carolina,chatham",37037.0,1.0
+1876,"north carolina,cherokee",37039.0,5.0
+1877,"north carolina,chowan",37041.0,3.0
+1878,"north carolina,clay",37043.0,3.0
+1879,"north carolina,cleveland",37045.0,3.0
+1880,"north carolina,columbus",37047.0,5.0
+1881,"north carolina,craven",37049.0,4.0
+1882,"north carolina,cumberland",37051.0,4.0
+1883,"north carolina,currituck:knotts",37053.0,
+1884,"north carolina,currituck:main",37054.0,
+1885,"north carolina,currituck:spit",37054.5,
+1886,"north carolina,dare",37055.0,3.0
+1887,"north carolina,davidson",37057.0,4.0
+1888,"north carolina,davie",37059.0,5.0
+1889,"north carolina,duplin",37061.0,3.0
+1890,"north carolina,durham",37063.0,2.0
+1891,"north carolina,edgecombe",37065.0,3.0
+1892,"north carolina,forsyth",37067.0,3.0
+1893,"north carolina,franklin",37069.0,4.0
+1894,"north carolina,gaston",37071.0,5.0
+1895,"north carolina,gates",37073.0,
+1896,"north carolina,graham",37075.0,3.0
+1897,"north carolina,granville",37077.0,4.0
+1898,"north carolina,greene",37079.0,
+1899,"north carolina,guilford",37081.0,3.0
+1900,"north carolina,halifax",37083.0,3.0
+1901,"north carolina,harnett",37085.0,4.0
+1902,"north carolina,haywood",37087.0,3.0
+1903,"north carolina,henderson",37089.0,3.0
+1904,"north carolina,hertford",37091.0,2.0
+1905,"north carolina,hoke",37093.0,3.0
+1906,"north carolina,hyde",37095.0,
+1907,"north carolina,iredell",37097.0,3.0
+1908,"north carolina,jackson",37099.0,3.0
+1909,"north carolina,johnston",37101.0,4.0
+1910,"north carolina,jones",37103.0,4.0
+1911,"north carolina,lee",37105.0,3.0
+1912,"north carolina,lenoir",37107.0,3.0
+1913,"north carolina,lincoln",37109.0,3.0
+1914,"north carolina,mcdowell",37111.0,5.0
+1915,"north carolina,macon",37113.0,3.0
+1916,"north carolina,madison",37115.0,
+1917,"north carolina,martin",37117.0,
+1918,"north carolina,mecklenburg",37119.0,1.0
+1919,"north carolina,mitchell",37121.0,4.0
+1920,"north carolina,montgomery",37123.0,
+1921,"north carolina,moore",37125.0,3.0
+1922,"north carolina,nash",37127.0,4.0
+1923,"north carolina,new hanover",37129.0,2.0
+1924,"north carolina,northampton",37131.0,3.0
+1925,"north carolina,onslow",37133.0,4.0
+1926,"north carolina,orange",37135.0,2.0
+1927,"north carolina,pamlico",37137.0,
+1928,"north carolina,pasquotank",37139.0,4.0
+1929,"north carolina,pender",37141.0,3.0
+1930,"north carolina,perquimans",37143.0,2.0
+1931,"north carolina,person",37145.0,4.0
+1932,"north carolina,pitt",37147.0,2.0
+1933,"north carolina,polk",37149.0,3.0
+1934,"north carolina,randolph",37151.0,4.0
+1935,"north carolina,richmond",37153.0,4.0
+1936,"north carolina,robeson",37155.0,4.0
+1937,"north carolina,rockingham",37157.0,4.0
+1938,"north carolina,rowan",37159.0,5.0
+1939,"north carolina,rutherford",37161.0,4.0
+1940,"north carolina,sampson",37163.0,3.0
+1941,"north carolina,scotland",37165.0,5.0
+1942,"north carolina,stanly",37167.0,5.0
+1943,"north carolina,stokes",37169.0,5.0
+1944,"north carolina,surry",37171.0,5.0
+1945,"north carolina,swain",37173.0,5.0
+1946,"north carolina,transylvania",37175.0,3.0
+1947,"north carolina,tyrrell",37177.0,
+1948,"north carolina,union",37179.0,2.0
+1949,"north carolina,vance",37181.0,4.0
+1950,"north carolina,wake",37183.0,1.0
+1951,"north carolina,warren",37185.0,
+1952,"north carolina,washington",37187.0,
+1953,"north carolina,watauga",37189.0,3.0
+1954,"north carolina,wayne",37191.0,4.0
+1955,"north carolina,wilkes",37193.0,4.0
+1956,"north carolina,wilson",37195.0,3.0
+1957,"north carolina,yadkin",37197.0,4.0
+1958,"north carolina,yancey",37199.0,5.0
+1959,"north dakota,adams",38001.0,
+1960,"north dakota,barnes",38003.0,1.0
+1961,"north dakota,benson",38005.0,3.0
+1962,"north dakota,billings",38007.0,
+1963,"north dakota,bottineau",38009.0,2.0
+1964,"north dakota,bowman",38011.0,1.0
+1965,"north dakota,burke",38013.0,
+1966,"north dakota,burleigh",38015.0,1.0
+1967,"north dakota,cass",38017.0,2.0
+1968,"north dakota,cavalier",38019.0,
+1969,"north dakota,dickey",38021.0,1.0
+1970,"north dakota,divide",38023.0,
+1971,"north dakota,dunn",38025.0,
+1972,"north dakota,eddy",38027.0,2.0
+1973,"north dakota,emmons",38029.0,1.0
+1974,"north dakota,foster",38031.0,2.0
+1975,"north dakota,golden valley",38033.0,
+1976,"north dakota,grand forks",38035.0,2.0
+1977,"north dakota,grant",38037.0,
+1978,"north dakota,griggs",38039.0,
+1979,"north dakota,hettinger",38041.0,
+1980,"north dakota,kidder",38043.0,
+1981,"north dakota,la moure",38045.0,1.0
+1982,"north dakota,logan",38047.0,
+1983,"north dakota,mchenry",38049.0,3.0
+1984,"north dakota,mcintosh",38051.0,1.0
+1985,"north dakota,mckenzie",38053.0,3.0
+1986,"north dakota,mclean",38055.0,3.0
+1987,"north dakota,mercer",38057.0,2.0
+1988,"north dakota,morton",38059.0,3.0
+1989,"north dakota,mountrail",38061.0,3.0
+1990,"north dakota,nelson",38063.0,2.0
+1991,"north dakota,oliver",38065.0,
+1992,"north dakota,pembina",38067.0,1.0
+1993,"north dakota,pierce",38069.0,2.0
+1994,"north dakota,ramsey",38071.0,4.0
+1995,"north dakota,ransom",38073.0,1.0
+1996,"north dakota,renville",38075.0,
+1997,"north dakota,richland",38077.0,1.0
+1998,"north dakota,rolette",38079.0,5.0
+1999,"north dakota,sargent",38081.0,1.0
+2000,"north dakota,sheridan",38083.0,
+2001,"north dakota,sioux",38085.0,3.0
+2002,"north dakota,slope",38087.0,
+2003,"north dakota,stark",38089.0,1.0
+2004,"north dakota,steele",38091.0,
+2005,"north dakota,stutsman",38093.0,1.0
+2006,"north dakota,towner",38095.0,
+2007,"north dakota,traill",38097.0,3.0
+2008,"north dakota,walsh",38099.0,2.0
+2009,"north dakota,ward",38101.0,2.0
+2010,"north dakota,wells",38103.0,1.0
+2011,"north dakota,williams",38105.0,2.0
+2012,"ohio,adams",39001.0,5.0
+2013,"ohio,allen",39003.0,3.0
+2014,"ohio,ashland",39005.0,4.0
+2015,"ohio,ashtabula",39007.0,4.0
+2016,"ohio,athens",39009.0,4.0
+2017,"ohio,auglaize",39011.0,3.0
+2018,"ohio,belmont",39013.0,4.0
+2019,"ohio,brown",39015.0,5.0
+2020,"ohio,butler",39017.0,4.0
+2021,"ohio,carroll",39019.0,4.0
+2022,"ohio,champaign",39021.0,3.0
+2023,"ohio,clark",39023.0,4.0
+2024,"ohio,clermont",39025.0,5.0
+2025,"ohio,clinton",39027.0,
+2026,"ohio,columbiana",39029.0,3.0
+2027,"ohio,coshocton",39031.0,3.0
+2028,"ohio,crawford",39033.0,4.0
+2029,"ohio,cuyahoga",39035.0,3.0
+2030,"ohio,darke",39037.0,3.0
+2031,"ohio,defiance",39039.0,3.0
+2032,"ohio,delaware",39041.0,2.0
+2033,"ohio,erie",39043.0,3.0
+2034,"ohio,fairfield",39045.0,3.0
+2035,"ohio,fayette",39047.0,5.0
+2036,"ohio,franklin",39049.0,3.0
+2037,"ohio,fulton",39051.0,3.0
+2038,"ohio,gallia",39053.0,5.0
+2039,"ohio,geauga",39055.0,3.0
+2040,"ohio,greene",39057.0,3.0
+2041,"ohio,guernsey",39059.0,4.0
+2042,"ohio,hamilton",39061.0,4.0
+2043,"ohio,hancock",39063.0,3.0
+2044,"ohio,hardin",39065.0,4.0
+2045,"ohio,harrison",39067.0,3.0
+2046,"ohio,henry",39069.0,
+2047,"ohio,highland",39071.0,5.0
+2048,"ohio,hocking",39073.0,3.0
+2049,"ohio,holmes",39075.0,
+2050,"ohio,huron",39077.0,4.0
+2051,"ohio,jackson",39079.0,5.0
+2052,"ohio,jefferson",39081.0,4.0
+2053,"ohio,knox",39083.0,3.0
+2054,"ohio,lake",39085.0,3.0
+2055,"ohio,lawrence",39087.0,4.0
+2056,"ohio,licking",39089.0,4.0
+2057,"ohio,logan",39091.0,4.0
+2058,"ohio,lorain",39093.0,3.0
+2059,"ohio,lucas",39095.0,4.0
+2060,"ohio,madison",39097.0,4.0
+2061,"ohio,mahoning",39099.0,4.0
+2062,"ohio,marion",39101.0,4.0
+2063,"ohio,medina",39103.0,2.0
+2064,"ohio,meigs",39105.0,
+2065,"ohio,mercer",39107.0,3.0
+2066,"ohio,miami",39109.0,3.0
+2067,"ohio,monroe",39111.0,
+2068,"ohio,montgomery",39113.0,3.0
+2069,"ohio,morgan",39115.0,5.0
+2070,"ohio,morrow",39117.0,5.0
+2071,"ohio,muskingum",39119.0,4.0
+2072,"ohio,noble",39121.0,
+2073,"ohio,ottawa",39123.0,3.0
+2074,"ohio,paulding",39125.0,
+2075,"ohio,perry",39127.0,5.0
+2076,"ohio,pickaway",39129.0,4.0
+2077,"ohio,pike",39131.0,5.0
+2078,"ohio,portage",39133.0,3.0
+2079,"ohio,preble",39135.0,
+2080,"ohio,putnam",39137.0,
+2081,"ohio,richland",39139.0,4.0
+2082,"ohio,ross",39141.0,5.0
+2083,"ohio,sandusky",39143.0,3.0
+2084,"ohio,scioto",39145.0,5.0
+2085,"ohio,seneca",39147.0,3.0
+2086,"ohio,shelby",39149.0,3.0
+2087,"ohio,stark",39151.0,3.0
+2088,"ohio,summit",39153.0,3.0
+2089,"ohio,trumbull",39155.0,4.0
+2090,"ohio,tuscarawas",39157.0,4.0
+2091,"ohio,union",39159.0,3.0
+2092,"ohio,van wert",39161.0,3.0
+2093,"ohio,vinton",39163.0,5.0
+2094,"ohio,warren",39165.0,2.0
+2095,"ohio,washington",39167.0,3.0
+2096,"ohio,wayne",39169.0,3.0
+2097,"ohio,williams",39171.0,3.0
+2098,"ohio,wood",39173.0,3.0
+2099,"ohio,wyandot",39175.0,3.0
+2100,"oklahoma,adair",40001.0,5.0
+2101,"oklahoma,alfalfa",40003.0,3.0
+2102,"oklahoma,atoka",40005.0,2.0
+2103,"oklahoma,beaver",40007.0,
+2104,"oklahoma,beckham",40009.0,5.0
+2105,"oklahoma,blaine",40011.0,3.0
+2106,"oklahoma,bryan",40013.0,4.0
+2107,"oklahoma,caddo",40015.0,5.0
+2108,"oklahoma,canadian",40017.0,3.0
+2109,"oklahoma,carter",40019.0,4.0
+2110,"oklahoma,cherokee",40021.0,4.0
+2111,"oklahoma,choctaw",40023.0,4.0
+2112,"oklahoma,cimarron",40025.0,
+2113,"oklahoma,cleveland",40027.0,3.0
+2114,"oklahoma,coal",40029.0,
+2115,"oklahoma,comanche",40031.0,4.0
+2116,"oklahoma,cotton",40033.0,
+2117,"oklahoma,craig",40035.0,4.0
+2118,"oklahoma,creek",40037.0,4.0
+2119,"oklahoma,custer",40039.0,3.0
+2120,"oklahoma,delaware",40041.0,3.0
+2121,"oklahoma,dewey",40043.0,
+2122,"oklahoma,ellis",40045.0,
+2123,"oklahoma,garfield",40047.0,2.0
+2124,"oklahoma,garvin",40049.0,5.0
+2125,"oklahoma,grady",40051.0,4.0
+2126,"oklahoma,grant",40053.0,
+2127,"oklahoma,greer",40055.0,
+2128,"oklahoma,harmon",40057.0,
+2129,"oklahoma,harper",40059.0,
+2130,"oklahoma,haskell",40061.0,3.0
+2131,"oklahoma,hughes",40063.0,
+2132,"oklahoma,jackson",40065.0,2.0
+2133,"oklahoma,jefferson",40067.0,4.0
+2134,"oklahoma,johnston",40069.0,2.0
+2135,"oklahoma,kay",40071.0,3.0
+2136,"oklahoma,kingfisher",40073.0,3.0
+2137,"oklahoma,kiowa",40075.0,5.0
+2138,"oklahoma,latimer",40077.0,3.0
+2139,"oklahoma,le flore",40079.0,5.0
+2140,"oklahoma,lincoln",40081.0,3.0
+2141,"oklahoma,logan",40083.0,4.0
+2142,"oklahoma,love",40085.0,5.0
+2143,"oklahoma,mcclain",40087.0,3.0
+2144,"oklahoma,mccurtain",40089.0,5.0
+2145,"oklahoma,mcintosh",40091.0,4.0
+2146,"oklahoma,major",40093.0,3.0
+2147,"oklahoma,marshall",40095.0,4.0
+2148,"oklahoma,mayes",40097.0,4.0
+2149,"oklahoma,murray",40099.0,5.0
+2150,"oklahoma,muskogee",40101.0,5.0
+2151,"oklahoma,noble",40103.0,
+2152,"oklahoma,nowata",40105.0,3.0
+2153,"oklahoma,okfuskee",40107.0,3.0
+2154,"oklahoma,oklahoma",40109.0,3.0
+2155,"oklahoma,okmulgee",40111.0,4.0
+2156,"oklahoma,osage",40113.0,4.0
+2157,"oklahoma,ottawa",40115.0,4.0
+2158,"oklahoma,pawnee",40117.0,3.0
+2159,"oklahoma,payne",40119.0,2.0
+2160,"oklahoma,pittsburg",40121.0,4.0
+2161,"oklahoma,pontotoc",40123.0,4.0
+2162,"oklahoma,pottawatomie",40125.0,5.0
+2163,"oklahoma,pushmataha",40127.0,2.0
+2164,"oklahoma,roger mills",40129.0,
+2165,"oklahoma,rogers",40131.0,4.0
+2166,"oklahoma,seminole",40133.0,5.0
+2167,"oklahoma,sequoyah",40135.0,5.0
+2168,"oklahoma,stephens",40137.0,3.0
+2169,"oklahoma,texas",40139.0,1.0
+2170,"oklahoma,tillman",40141.0,2.0
+2171,"oklahoma,tulsa",40143.0,4.0
+2172,"oklahoma,wagoner",40145.0,4.0
+2173,"oklahoma,washington",40147.0,4.0
+2174,"oklahoma,washita",40149.0,1.0
+2175,"oklahoma,woods",40151.0,
+2176,"oklahoma,woodward",40153.0,1.0
+2177,"oregon,baker",41001.0,3.0
+2178,"oregon,benton",41003.0,1.0
+2179,"oregon,clackamas",41005.0,1.0
+2180,"oregon,clatsop",41007.0,3.0
+2181,"oregon,columbia",41009.0,3.0
+2182,"oregon,coos",41011.0,4.0
+2183,"oregon,crook",41013.0,1.0
+2184,"oregon,curry",41015.0,2.0
+2185,"oregon,deschutes",41017.0,1.0
+2186,"oregon,douglas",41019.0,4.0
+2187,"oregon,gilliam",41021.0,
+2188,"oregon,grant",41023.0,
+2189,"oregon,harney",41025.0,
+2190,"oregon,hood river",41027.0,
+2191,"oregon,jackson",41029.0,2.0
+2192,"oregon,jefferson",41031.0,1.0
+2193,"oregon,josephine",41033.0,3.0
+2194,"oregon,klamath",41035.0,2.0
+2195,"oregon,lake",41037.0,
+2196,"oregon,lane",41039.0,2.0
+2197,"oregon,lincoln",41041.0,3.0
+2198,"oregon,linn",41043.0,3.0
+2199,"oregon,malheur",41045.0,1.0
+2200,"oregon,marion",41047.0,2.0
+2201,"oregon,morrow",41049.0,
+2202,"oregon,multnomah",41051.0,2.0
+2203,"oregon,polk",41053.0,1.0
+2204,"oregon,sherman",41055.0,
+2205,"oregon,tillamook",41057.0,2.0
+2206,"oregon,umatilla",41059.0,3.0
+2207,"oregon,union",41061.0,1.0
+2208,"oregon,wallowa",41063.0,1.0
+2209,"oregon,wasco",41065.0,2.0
+2210,"oregon,washington",41067.0,1.0
+2211,"oregon,wheeler",41069.0,
+2212,"oregon,yamhill",41071.0,2.0
+2213,"pennsylvania,adams",42001.0,3.0
+2214,"pennsylvania,allegheny",42003.0,3.0
+2215,"pennsylvania,armstrong",42005.0,3.0
+2216,"pennsylvania,beaver",42007.0,3.0
+2217,"pennsylvania,bedford",42009.0,3.0
+2218,"pennsylvania,berks",42011.0,3.0
+2219,"pennsylvania,blair",42013.0,3.0
+2220,"pennsylvania,bradford",42015.0,3.0
+2221,"pennsylvania,bucks",42017.0,2.0
+2222,"pennsylvania,butler",42019.0,2.0
+2223,"pennsylvania,cambria",42021.0,3.0
+2224,"pennsylvania,cameron",42023.0,
+2225,"pennsylvania,carbon",42025.0,3.0
+2226,"pennsylvania,centre",42027.0,1.0
+2227,"pennsylvania,chester",42029.0,1.0
+2228,"pennsylvania,clarion",42031.0,3.0
+2229,"pennsylvania,clearfield",42033.0,3.0
+2230,"pennsylvania,clinton",42035.0,3.0
+2231,"pennsylvania,columbia",42037.0,3.0
+2232,"pennsylvania,crawford",42039.0,3.0
+2233,"pennsylvania,cumberland",42041.0,2.0
+2234,"pennsylvania,dauphin",42043.0,3.0
+2235,"pennsylvania,delaware",42045.0,3.0
+2236,"pennsylvania,elk",42047.0,3.0
+2237,"pennsylvania,erie",42049.0,3.0
+2238,"pennsylvania,fayette",42051.0,4.0
+2239,"pennsylvania,forest",42053.0,3.0
+2240,"pennsylvania,franklin",42055.0,3.0
+2241,"pennsylvania,fulton",42057.0,
+2242,"pennsylvania,greene",42059.0,4.0
+2243,"pennsylvania,huntingdon",42061.0,2.0
+2244,"pennsylvania,indiana",42063.0,3.0
+2245,"pennsylvania,jefferson",42065.0,3.0
+2246,"pennsylvania,juniata",42067.0,2.0
+2247,"pennsylvania,lackawanna",42069.0,3.0
+2248,"pennsylvania,lancaster",42071.0,3.0
+2249,"pennsylvania,lawrence",42073.0,3.0
+2250,"pennsylvania,lebanon",42075.0,3.0
+2251,"pennsylvania,lehigh",42077.0,3.0
+2252,"pennsylvania,luzerne",42079.0,3.0
+2253,"pennsylvania,lycoming",42081.0,3.0
+2254,"pennsylvania,mckean",42083.0,3.0
+2255,"pennsylvania,mercer",42085.0,3.0
+2256,"pennsylvania,mifflin",42087.0,3.0
+2257,"pennsylvania,monroe",42089.0,4.0
+2258,"pennsylvania,montgomery",42091.0,1.0
+2259,"pennsylvania,montour",42093.0,3.0
+2260,"pennsylvania,northampton",42095.0,2.0
+2261,"pennsylvania,northumberland",42097.0,3.0
+2262,"pennsylvania,perry",42099.0,3.0
+2263,"pennsylvania,philadelphia",42101.0,4.0
+2264,"pennsylvania,pike",42103.0,3.0
+2265,"pennsylvania,potter",42105.0,3.0
+2266,"pennsylvania,schuylkill",42107.0,3.0
+2267,"pennsylvania,snyder",42109.0,3.0
+2268,"pennsylvania,somerset",42111.0,3.0
+2269,"pennsylvania,sullivan",42113.0,
+2270,"pennsylvania,susquehanna",42115.0,3.0
+2271,"pennsylvania,tioga",42117.0,3.0
+2272,"pennsylvania,union",42119.0,3.0
+2273,"pennsylvania,venango",42121.0,4.0
+2274,"pennsylvania,warren",42123.0,3.0
+2275,"pennsylvania,washington",42125.0,3.0
+2276,"pennsylvania,wayne",42127.0,3.0
+2277,"pennsylvania,westmoreland",42129.0,3.0
+2278,"pennsylvania,wyoming",42131.0,4.0
+2279,"pennsylvania,york",42133.0,3.0
+2280,"rhode island,bristol",44001.0,2.0
+2281,"rhode island,kent",44003.0,3.0
+2282,"rhode island,newport",44005.0,2.0
+2283,"rhode island,providence",44007.0,3.0
+2284,"rhode island,washington",44009.0,2.0
+2285,"south carolina,abbeville",45001.0,3.0
+2286,"south carolina,aiken",45003.0,3.0
+2287,"south carolina,allendale",45005.0,3.0
+2288,"south carolina,anderson",45007.0,3.0
+2289,"south carolina,bamberg",45009.0,3.0
+2290,"south carolina,barnwell",45011.0,3.0
+2291,"south carolina,beaufort",45013.0,1.0
+2292,"south carolina,berkeley",45015.0,4.0
+2293,"south carolina,calhoun",45017.0,3.0
+2294,"south carolina,charleston",45019.0,3.0
+2295,"south carolina,cherokee",45021.0,4.0
+2296,"south carolina,chester",45023.0,4.0
+2297,"south carolina,chesterfield",45025.0,4.0
+2298,"south carolina,clarendon",45027.0,5.0
+2299,"south carolina,colleton",45029.0,5.0
+2300,"south carolina,darlington",45031.0,4.0
+2301,"south carolina,dillon",45033.0,3.0
+2302,"south carolina,dorchester",45035.0,3.0
+2303,"south carolina,edgefield",45037.0,3.0
+2304,"south carolina,fairfield",45039.0,3.0
+2305,"south carolina,florence",45041.0,3.0
+2306,"south carolina,georgetown",45043.0,3.0
+2307,"south carolina,greenville",45045.0,3.0
+2308,"south carolina,greenwood",45047.0,3.0
+2309,"south carolina,hampton",45049.0,3.0
+2310,"south carolina,horry",45051.0,4.0
+2311,"south carolina,jasper",45053.0,5.0
+2312,"south carolina,kershaw",45055.0,4.0
+2313,"south carolina,lancaster",45057.0,3.0
+2314,"south carolina,laurens",45059.0,4.0
+2315,"south carolina,lee",45061.0,3.0
+2316,"south carolina,lexington",45063.0,3.0
+2317,"south carolina,mccormick",45065.0,3.0
+2318,"south carolina,marion",45067.0,3.0
+2319,"south carolina,marlboro",45069.0,5.0
+2320,"south carolina,newberry",45071.0,4.0
+2321,"south carolina,oconee",45073.0,3.0
+2322,"south carolina,orangeburg",45075.0,3.0
+2323,"south carolina,pickens",45077.0,3.0
+2324,"south carolina,richland",45079.0,3.0
+2325,"south carolina,saluda",45081.0,3.0
+2326,"south carolina,spartanburg",45083.0,3.0
+2327,"south carolina,sumter",45085.0,4.0
+2328,"south carolina,union",45087.0,5.0
+2329,"south carolina,williamsburg",45089.0,3.0
+2330,"south carolina,york",45091.0,2.0
+2331,"south dakota,aurora",46003.0,
+2332,"south dakota,beadle",46005.0,1.0
+2333,"south dakota,bennett",46007.0,3.0
+2334,"south dakota,bon homme",46009.0,1.0
+2335,"south dakota,brookings",46011.0,1.0
+2336,"south dakota,brown",46013.0,2.0
+2337,"south dakota,brule",46015.0,1.0
+2338,"south dakota,buffalo",46017.0,3.0
+2339,"south dakota,butte",46019.0,1.0
+2340,"south dakota,campbell",46021.0,
+2341,"south dakota,charles mix",46023.0,1.0
+2342,"south dakota,clark",46025.0,
+2343,"south dakota,clay",46027.0,1.0
+2344,"south dakota,codington",46029.0,1.0
+2345,"south dakota,corson",46031.0,4.0
+2346,"south dakota,custer",46033.0,1.0
+2347,"south dakota,davison",46035.0,1.0
+2348,"south dakota,day",46037.0,
+2349,"south dakota,deuel",46039.0,1.0
+2350,"south dakota,dewey",46041.0,3.0
+2351,"south dakota,douglas",46043.0,
+2352,"south dakota,edmunds",46045.0,1.0
+2353,"south dakota,fall river",46047.0,
+2354,"south dakota,faulk",46049.0,
+2355,"south dakota,grant",46051.0,3.0
+2356,"south dakota,gregory",46053.0,1.0
+2357,"south dakota,haakon",46055.0,
+2358,"south dakota,hamlin",46057.0,1.0
+2359,"south dakota,hand",46059.0,
+2360,"south dakota,hanson",46061.0,
+2361,"south dakota,harding",46063.0,
+2362,"south dakota,hughes",46065.0,1.0
+2363,"south dakota,hutchinson",46067.0,1.0
+2364,"south dakota,hyde",46069.0,
+2365,"south dakota,jackson",46071.0,1.0
+2366,"south dakota,jerauld",46073.0,
+2367,"south dakota,jones",46075.0,
+2368,"south dakota,kingsbury",46077.0,1.0
+2369,"south dakota,lake",46079.0,1.0
+2370,"south dakota,lawrence",46081.0,1.0
+2371,"south dakota,lincoln",46083.0,1.0
+2372,"south dakota,lyman",46085.0,1.0
+2373,"south dakota,mccook",46087.0,
+2374,"south dakota,mcpherson",46089.0,
+2375,"south dakota,marshall",46091.0,1.0
+2376,"south dakota,meade",46093.0,1.0
+2377,"south dakota,mellette",46095.0,3.0
+2378,"south dakota,miner",46097.0,
+2379,"south dakota,minnehaha",46099.0,3.0
+2380,"south dakota,moody",46101.0,1.0
+2381,"south dakota,pennington",46103.0,2.0
+2382,"south dakota,perkins",46105.0,
+2383,"south dakota,potter",46107.0,
+2384,"south dakota,roberts",46109.0,1.0
+2385,"south dakota,sanborn",46111.0,
+2386,"south dakota,shannon",46113.0,4.0
+2387,"south dakota,spink",46115.0,1.0
+2388,"south dakota,stanley",46117.0,1.0
+2389,"south dakota,sully",46119.0,
+2390,"south dakota,todd",46121.0,1.0
+2391,"south dakota,tripp",46123.0,
+2392,"south dakota,turner",46125.0,1.0
+2393,"south dakota,union",46127.0,2.0
+2394,"south dakota,walworth",46129.0,1.0
+2395,"south dakota,yankton",46135.0,1.0
+2396,"south dakota,ziebach",46137.0,
+2397,"tennessee,anderson",47001.0,3.0
+2398,"tennessee,bedford",47003.0,5.0
+2399,"tennessee,benton",47005.0,5.0
+2400,"tennessee,bledsoe",47007.0,5.0
+2401,"tennessee,blount",47009.0,3.0
+2402,"tennessee,bradley",47011.0,4.0
+2403,"tennessee,campbell",47013.0,5.0
+2404,"tennessee,cannon",47015.0,
+2405,"tennessee,carroll",47017.0,5.0
+2406,"tennessee,carter",47019.0,4.0
+2407,"tennessee,cheatham",47021.0,5.0
+2408,"tennessee,chester",47023.0,3.0
+2409,"tennessee,claiborne",47025.0,5.0
+2410,"tennessee,clay",47027.0,
+2411,"tennessee,cocke",47029.0,5.0
+2412,"tennessee,coffee",47031.0,5.0
+2413,"tennessee,crockett",47033.0,5.0
+2414,"tennessee,cumberland",47035.0,3.0
+2415,"tennessee,davidson",47037.0,3.0
+2416,"tennessee,decatur",47039.0,5.0
+2417,"tennessee,de kalb",47041.0,5.0
+2418,"tennessee,dickson",47043.0,5.0
+2419,"tennessee,dyer",47045.0,5.0
+2420,"tennessee,fayette",47047.0,4.0
+2421,"tennessee,fentress",47049.0,5.0
+2422,"tennessee,franklin",47051.0,5.0
+2423,"tennessee,gibson",47053.0,4.0
+2424,"tennessee,giles",47055.0,5.0
+2425,"tennessee,grainger",47057.0,
+2426,"tennessee,greene",47059.0,5.0
+2427,"tennessee,grundy",47061.0,5.0
+2428,"tennessee,hamblen",47063.0,5.0
+2429,"tennessee,hamilton",47065.0,3.0
+2430,"tennessee,hancock",47067.0,
+2431,"tennessee,hardeman",47069.0,5.0
+2432,"tennessee,hardin",47071.0,5.0
+2433,"tennessee,hawkins",47073.0,5.0
+2434,"tennessee,haywood",47075.0,4.0
+2435,"tennessee,henderson",47077.0,5.0
+2436,"tennessee,henry",47079.0,5.0
+2437,"tennessee,hickman",47081.0,5.0
+2438,"tennessee,houston",47083.0,
+2439,"tennessee,humphreys",47085.0,
+2440,"tennessee,jackson",47087.0,
+2441,"tennessee,jefferson",47089.0,5.0
+2442,"tennessee,johnson",47091.0,5.0
+2443,"tennessee,knox",47093.0,3.0
+2444,"tennessee,lake",47095.0,
+2445,"tennessee,lauderdale",47097.0,5.0
+2446,"tennessee,lawrence",47099.0,5.0
+2447,"tennessee,lewis",47101.0,5.0
+2448,"tennessee,lincoln",47103.0,5.0
+2449,"tennessee,loudon",47105.0,4.0
+2450,"tennessee,mcminn",47107.0,5.0
+2451,"tennessee,mcnairy",47109.0,5.0
+2452,"tennessee,macon",47111.0,5.0
+2453,"tennessee,madison",47113.0,3.0
+2454,"tennessee,marion",47115.0,5.0
+2455,"tennessee,marshall",47117.0,5.0
+2456,"tennessee,maury",47119.0,4.0
+2457,"tennessee,meigs",47121.0,
+2458,"tennessee,monroe",47123.0,5.0
+2459,"tennessee,montgomery",47125.0,5.0
+2460,"tennessee,moore",47127.0,
+2461,"tennessee,morgan",47129.0,
+2462,"tennessee,obion",47131.0,5.0
+2463,"tennessee,overton",47133.0,5.0
+2464,"tennessee,perry",47135.0,
+2465,"tennessee,pickett",47137.0,
+2466,"tennessee,polk",47139.0,5.0
+2467,"tennessee,putnam",47141.0,3.0
+2468,"tennessee,rhea",47143.0,5.0
+2469,"tennessee,roane",47145.0,3.0
+2470,"tennessee,robertson",47147.0,5.0
+2471,"tennessee,rutherford",47149.0,3.0
+2472,"tennessee,scott",47151.0,5.0
+2473,"tennessee,sequatchie",47153.0,5.0
+2474,"tennessee,sevier",47155.0,5.0
+2475,"tennessee,shelby",47157.0,2.0
+2476,"tennessee,smith",47159.0,
+2477,"tennessee,stewart",47161.0,
+2478,"tennessee,sullivan",47163.0,5.0
+2479,"tennessee,sumner",47165.0,3.0
+2480,"tennessee,tipton",47167.0,5.0
+2481,"tennessee,trousdale",47169.0,
+2482,"tennessee,unicoi",47171.0,4.0
+2483,"tennessee,union",47173.0,
+2484,"tennessee,van buren",47175.0,5.0
+2485,"tennessee,warren",47177.0,4.0
+2486,"tennessee,washington",47179.0,4.0
+2487,"tennessee,wayne",47181.0,5.0
+2488,"tennessee,weakley",47183.0,5.0
+2489,"tennessee,white",47185.0,5.0
+2490,"tennessee,williamson",47187.0,1.0
+2491,"tennessee,wilson",47189.0,5.0
+2492,"texas,anderson",48001.0,4.0
+2493,"texas,andrews",48003.0,
+2494,"texas,angelina",48005.0,3.0
+2495,"texas,aransas",48007.0,
+2496,"texas,archer",48009.0,
+2497,"texas,armstrong",48011.0,
+2498,"texas,atascosa",48013.0,
+2499,"texas,austin",48015.0,3.0
+2500,"texas,bailey",48017.0,
+2501,"texas,bandera",48019.0,
+2502,"texas,bastrop",48021.0,4.0
+2503,"texas,baylor",48023.0,
+2504,"texas,bee",48025.0,
+2505,"texas,bell",48027.0,3.0
+2506,"texas,bexar",48029.0,1.0
+2507,"texas,blanco",48031.0,
+2508,"texas,borden",48033.0,
+2509,"texas,bosque",48035.0,
+2510,"texas,bowie",48037.0,4.0
+2511,"texas,brazoria",48039.0,2.0
+2512,"texas,brazos",48041.0,1.0
+2513,"texas,brewster",48043.0,
+2514,"texas,briscoe",48045.0,
+2515,"texas,brooks",48047.0,
+2516,"texas,brown",48049.0,2.0
+2517,"texas,burleson",48051.0,
+2518,"texas,burnet",48053.0,1.0
+2519,"texas,caldwell",48055.0,
+2520,"texas,calhoun",48057.0,
+2521,"texas,callahan",48059.0,
+2522,"texas,cameron",48061.0,1.0
+2523,"texas,camp",48063.0,
+2524,"texas,carson",48065.0,
+2525,"texas,cass",48067.0,5.0
+2526,"texas,castro",48069.0,
+2527,"texas,chambers",48071.0,
+2528,"texas,cherokee",48073.0,5.0
+2529,"texas,childress",48075.0,
+2530,"texas,clay",48077.0,
+2531,"texas,cochran",48079.0,
+2532,"texas,coke",48081.0,
+2533,"texas,coleman",48083.0,
+2534,"texas,collin",48085.0,1.0
+2535,"texas,collingsworth",48087.0,
+2536,"texas,colorado",48089.0,
+2537,"texas,comal",48091.0,
+2538,"texas,comanche",48093.0,2.0
+2539,"texas,concho",48095.0,
+2540,"texas,cooke",48097.0,
+2541,"texas,coryell",48099.0,2.0
+2542,"texas,cottle",48101.0,
+2543,"texas,crane",48103.0,
+2544,"texas,crockett",48105.0,
+2545,"texas,crosby",48107.0,
+2546,"texas,culberson",48109.0,
+2547,"texas,dallam",48111.0,
+2548,"texas,dallas",48113.0,3.0
+2549,"texas,dawson",48115.0,
+2550,"texas,deaf smith",48117.0,
+2551,"texas,delta",48119.0,
+2552,"texas,denton",48121.0,1.0
+2553,"texas,de witt",48123.0,
+2554,"texas,dickens",48125.0,
+2555,"texas,dimmit",48127.0,
+2556,"texas,donley",48129.0,
+2557,"texas,duval",48131.0,
+2558,"texas,eastland",48133.0,
+2559,"texas,ector",48135.0,3.0
+2560,"texas,edwards",48137.0,
+2561,"texas,ellis",48139.0,3.0
+2562,"texas,el paso",48141.0,1.0
+2563,"texas,erath",48143.0,
+2564,"texas,falls",48145.0,
+2565,"texas,fannin",48147.0,
+2566,"texas,fayette",48149.0,
+2567,"texas,fisher",48151.0,
+2568,"texas,floyd",48153.0,
+2569,"texas,foard",48155.0,
+2570,"texas,fort bend",48157.0,1.0
+2571,"texas,franklin",48159.0,
+2572,"texas,freestone",48161.0,
+2573,"texas,frio",48163.0,
+2574,"texas,gaines",48165.0,
+2575,"texas,galveston:main",48167.0,2.0
+2576,"texas,galveston:spit",48168.0,
+2577,"texas,garza",48169.0,
+2578,"texas,gillespie",48171.0,
+2579,"texas,glasscock",48173.0,
+2580,"texas,goliad",48175.0,
+2581,"texas,gonzales",48177.0,
+2582,"texas,gray",48179.0,
+2583,"texas,grayson",48181.0,3.0
+2584,"texas,gregg",48183.0,3.0
+2585,"texas,grimes",48185.0,
+2586,"texas,guadalupe",48187.0,2.0
+2587,"texas,hale",48189.0,2.0
+2588,"texas,hall",48191.0,
+2589,"texas,hamilton",48193.0,
+2590,"texas,hansford",48195.0,
+2591,"texas,hardeman",48197.0,
+2592,"texas,hardin",48199.0,3.0
+2593,"texas,harris",48201.0,1.0
+2594,"texas,harrison",48203.0,4.0
+2595,"texas,hartley",48205.0,
+2596,"texas,haskell",48207.0,
+2597,"texas,hays",48209.0,1.0
+2598,"texas,hemphill",48211.0,
+2599,"texas,henderson",48213.0,4.0
+2600,"texas,hidalgo",48215.0,1.0
+2601,"texas,hill",48217.0,
+2602,"texas,hockley",48219.0,1.0
+2603,"texas,hood",48221.0,
+2604,"texas,hopkins",48223.0,
+2605,"texas,houston",48225.0,
+2606,"texas,howard",48227.0,
+2607,"texas,hudspeth",48229.0,
+2608,"texas,hunt",48231.0,4.0
+2609,"texas,hutchinson",48233.0,
+2610,"texas,irion",48235.0,
+2611,"texas,jack",48237.0,
+2612,"texas,jackson",48239.0,
+2613,"texas,jasper",48241.0,4.0
+2614,"texas,jeff davis",48243.0,
+2615,"texas,jefferson",48245.0,4.0
+2616,"texas,jim hogg",48247.0,
+2617,"texas,jim wells",48249.0,
+2618,"texas,johnson",48251.0,3.0
+2619,"texas,jones",48253.0,
+2620,"texas,karnes",48255.0,
+2621,"texas,kaufman",48257.0,4.0
+2622,"texas,kendall",48259.0,
+2623,"texas,kenedy",48261.0,
+2624,"texas,kent",48263.0,
+2625,"texas,kerr",48265.0,1.0
+2626,"texas,kimble",48267.0,
+2627,"texas,king",48269.0,
+2628,"texas,kinney",48271.0,
+2629,"texas,kleberg",48273.0,
+2630,"texas,knox",48275.0,
+2631,"texas,lamar",48277.0,5.0
+2632,"texas,lamb",48279.0,
+2633,"texas,lampasas",48281.0,
+2634,"texas,la salle",48283.0,
+2635,"texas,lavaca",48285.0,
+2636,"texas,lee",48287.0,
+2637,"texas,leon",48289.0,4.0
+2638,"texas,liberty",48291.0,4.0
+2639,"texas,limestone",48293.0,
+2640,"texas,lipscomb",48295.0,
+2641,"texas,live oak",48297.0,
+2642,"texas,llano",48299.0,
+2643,"texas,loving",48301.0,
+2644,"texas,lubbock",48303.0,1.0
+2645,"texas,lynn",48305.0,
+2646,"texas,mcculloch",48307.0,
+2647,"texas,mclennan",48309.0,2.0
+2648,"texas,mcmullen",48311.0,
+2649,"texas,madison",48313.0,
+2650,"texas,marion",48315.0,
+2651,"texas,martin",48317.0,
+2652,"texas,mason",48319.0,
+2653,"texas,matagorda",48321.0,4.0
+2654,"texas,maverick",48323.0,1.0
+2655,"texas,medina",48325.0,
+2656,"texas,menard",48327.0,
+2657,"texas,midland",48329.0,1.0
+2658,"texas,milam",48331.0,
+2659,"texas,mills",48333.0,
+2660,"texas,mitchell",48335.0,
+2661,"texas,montague",48337.0,
+2662,"texas,montgomery",48339.0,2.0
+2663,"texas,moore",48341.0,
+2664,"texas,morris",48343.0,
+2665,"texas,motley",48345.0,
+2666,"texas,nacogdoches",48347.0,4.0
+2667,"texas,navarro",48349.0,
+2668,"texas,newton",48351.0,
+2669,"texas,nolan",48353.0,
+2670,"texas,nueces",48355.0,1.0
+2671,"texas,ochiltree",48357.0,
+2672,"texas,oldham",48359.0,
+2673,"texas,orange",48361.0,4.0
+2674,"texas,palo pinto",48363.0,
+2675,"texas,panola",48365.0,
+2676,"texas,parker",48367.0,3.0
+2677,"texas,parmer",48369.0,
+2678,"texas,pecos",48371.0,
+2679,"texas,polk",48373.0,5.0
+2680,"texas,potter",48375.0,3.0
+2681,"texas,presidio",48377.0,
+2682,"texas,rains",48379.0,
+2683,"texas,randall",48381.0,2.0
+2684,"texas,reagan",48383.0,
+2685,"texas,real",48385.0,
+2686,"texas,red river",48387.0,
+2687,"texas,reeves",48389.0,
+2688,"texas,refugio",48391.0,
+2689,"texas,roberts",48393.0,
+2690,"texas,robertson",48395.0,
+2691,"texas,rockwall",48397.0,
+2692,"texas,runnels",48399.0,
+2693,"texas,rusk",48401.0,3.0
+2694,"texas,sabine",48403.0,
+2695,"texas,san augustine",48405.0,
+2696,"texas,san jacinto",48407.0,
+2697,"texas,san patricio",48409.0,3.0
+2698,"texas,san saba",48411.0,
+2699,"texas,schleicher",48413.0,
+2700,"texas,scurry",48415.0,
+2701,"texas,shackelford",48417.0,
+2702,"texas,shelby",48419.0,4.0
+2703,"texas,sherman",48421.0,
+2704,"texas,smith",48423.0,3.0
+2705,"texas,somervell",48425.0,
+2706,"texas,starr",48427.0,
+2707,"texas,stephens",48429.0,
+2708,"texas,sterling",48431.0,
+2709,"texas,stonewall",48433.0,
+2710,"texas,sutton",48435.0,
+2711,"texas,swisher",48437.0,
+2712,"texas,tarrant",48439.0,3.0
+2713,"texas,taylor",48441.0,2.0
+2714,"texas,terrell",48443.0,
+2715,"texas,terry",48445.0,
+2716,"texas,throckmorton",48447.0,
+2717,"texas,titus",48449.0,
+2718,"texas,tom green",48451.0,1.0
+2719,"texas,travis",48453.0,1.0
+2720,"texas,trinity",48455.0,
+2721,"texas,tyler",48457.0,
+2722,"texas,upshur",48459.0,
+2723,"texas,upton",48461.0,
+2724,"texas,uvalde",48463.0,
+2725,"texas,val verde",48465.0,1.0
+2726,"texas,van zandt",48467.0,3.0
+2727,"texas,victoria",48469.0,2.0
+2728,"texas,walker",48471.0,3.0
+2729,"texas,waller",48473.0,
+2730,"texas,ward",48475.0,
+2731,"texas,washington",48477.0,
+2732,"texas,webb",48479.0,1.0
+2733,"texas,wharton",48481.0,3.0
+2734,"texas,wheeler",48483.0,
+2735,"texas,wichita",48485.0,4.0
+2736,"texas,wilbarger",48487.0,
+2737,"texas,willacy",48489.0,
+2738,"texas,williamson",48491.0,1.0
+2739,"texas,wilson",48493.0,1.0
+2740,"texas,winkler",48495.0,
+2741,"texas,wise",48497.0,3.0
+2742,"texas,wood",48499.0,4.0
+2743,"texas,yoakum",48501.0,
+2744,"texas,young",48503.0,
+2745,"texas,zapata",48505.0,
+2746,"texas,zavala",48507.0,
+2747,"utah,beaver",49001.0,
+2748,"utah,box elder",49003.0,1.0
+2749,"utah,cache",49005.0,1.0
+2750,"utah,carbon",49007.0,1.0
+2751,"utah,daggett",49009.0,
+2752,"utah,davis",49011.0,1.0
+2753,"utah,duchesne",49013.0,1.0
+2754,"utah,emery",49015.0,1.0
+2755,"utah,garfield",49017.0,
+2756,"utah,grand",49019.0,1.0
+2757,"utah,iron",49021.0,1.0
+2758,"utah,juab",49023.0,1.0
+2759,"utah,kane",49025.0,1.0
+2760,"utah,millard",49027.0,1.0
+2761,"utah,morgan",49029.0,
+2762,"utah,piute",49031.0,
+2763,"utah,rich",49033.0,
+2764,"utah,salt lake",49035.0,1.0
+2765,"utah,san juan",49037.0,1.0
+2766,"utah,sanpete",49039.0,1.0
+2767,"utah,sevier",49041.0,1.0
+2768,"utah,summit",49043.0,1.0
+2769,"utah,tooele",49045.0,1.0
+2770,"utah,uintah",49047.0,1.0
+2771,"utah,utah",49049.0,1.0
+2772,"utah,wasatch",49051.0,1.0
+2773,"utah,washington",49053.0,1.0
+2774,"utah,wayne",49055.0,
+2775,"utah,weber",49057.0,1.0
+2776,"vermont,addison",50001.0,1.0
+2777,"vermont,bennington",50003.0,3.0
+2778,"vermont,caledonia",50005.0,3.0
+2779,"vermont,chittenden",50007.0,2.0
+2780,"vermont,essex",50009.0,3.0
+2781,"vermont,franklin",50011.0,2.0
+2782,"vermont,grand isle",50013.0,1.0
+2783,"vermont,lamoille",50015.0,1.0
+2784,"vermont,orange",50017.0,3.0
+2785,"vermont,orleans",50019.0,2.0
+2786,"vermont,rutland",50021.0,3.0
+2787,"vermont,washington",50023.0,2.0
+2788,"vermont,windham",50025.0,1.0
+2789,"vermont,windsor",50027.0,3.0
+2790,"virginia,accomack:main",51001.0,4.0
+2791,"virginia,accomack:chincoteague",51001.0,4.0
+2792,"virginia,albemarle",51003.0,1.0
+2793,"virginia,alleghany",51005.0,3.0
+2794,"virginia,amelia",51007.0,3.0
+2795,"virginia,amherst",51009.0,
+2796,"virginia,appomattox",51011.0,2.0
+2797,"virginia,arlington",51013.0,1.0
+2798,"virginia,augusta",51015.0,2.0
+2799,"virginia,bath",51017.0,
+2800,"virginia,bedford",51917.0,
+2801,"virginia,bland",51021.0,
+2802,"virginia,botetourt",51023.0,3.0
+2803,"virginia,brunswick",51025.0,3.0
+2804,"virginia,buchanan",51027.0,5.0
+2805,"virginia,buckingham",51029.0,4.0
+2806,"virginia,campbell",51031.0,3.0
+2807,"virginia,caroline",51033.0,
+2808,"virginia,carroll",51035.0,2.0
+2809,"virginia,charles city",51036.0,
+2810,"virginia,charlotte",51037.0,
+2811,"virginia,chesterfield",51041.0,2.0
+2812,"virginia,clarke",51043.0,
+2813,"virginia,craig",51045.0,
+2814,"virginia,culpeper",51047.0,3.0
+2815,"virginia,cumberland",51049.0,3.0
+2816,"virginia,dickenson",51051.0,5.0
+2817,"virginia,dinwiddie",51053.0,4.0
+2818,"virginia,essex",51057.0,
+2819,"virginia,fairfax",51059.0,1.0
+2820,"virginia,fauquier",51061.0,3.0
+2821,"virginia,floyd",51063.0,3.0
+2822,"virginia,fluvanna",51065.0,
+2823,"virginia,franklin",51067.0,3.0
+2824,"virginia,frederick",51069.0,3.0
+2825,"virginia,giles",51071.0,5.0
+2826,"virginia,gloucester",51073.0,3.0
+2827,"virginia,goochland",51075.0,
+2828,"virginia,grayson",51077.0,3.0
+2829,"virginia,greene",51079.0,
+2830,"virginia,greensville",51081.0,4.0
+2831,"virginia,halifax",51083.0,3.0
+2832,"virginia,hanover",51085.0,3.0
+2833,"virginia,henrico",51087.0,2.0
+2834,"virginia,henry",51089.0,4.0
+2835,"virginia,highland",51091.0,
+2836,"virginia,isle of wight",51093.0,2.0
+2837,"virginia,james city",51095.0,1.0
+2838,"virginia,king and queen",51097.0,
+2839,"virginia,king george",51099.0,
+2840,"virginia,king william",51101.0,3.0
+2841,"virginia,lancaster",51103.0,
+2842,"virginia,lee",51105.0,5.0
+2843,"virginia,loudoun",51107.0,1.0
+2844,"virginia,louisa",51109.0,5.0
+2845,"virginia,lunenburg",51111.0,3.0
+2846,"virginia,madison",51113.0,
+2847,"virginia,mathews",51115.0,
+2848,"virginia,mecklenburg",51117.0,4.0
+2849,"virginia,middlesex",51119.0,
+2850,"virginia,montgomery",51121.0,1.0
+2851,"virginia,suffolk",51800.0,2.0
+2852,"virginia,nelson",51125.0,
+2853,"virginia,new kent",51127.0,5.0
+2854,"virginia,northampton",51131.0,4.0
+2855,"virginia,northumberland",51133.0,
+2856,"virginia,nottoway",51135.0,3.0
+2857,"virginia,orange",51137.0,3.0
+2858,"virginia,page",51139.0,3.0
+2859,"virginia,patrick",51141.0,1.0
+2860,"virginia,pittsylvania",51143.0,4.0
+2861,"virginia,powhatan",51145.0,
+2862,"virginia,prince edward",51147.0,2.0
+2863,"virginia,prince george",51149.0,3.0
+2864,"virginia,prince william",51153.0,1.0
+2865,"virginia,pulaski",51155.0,5.0
+2866,"virginia,rappahannock",51157.0,
+2867,"virginia,richmond",51159.0,3.0
+2868,"virginia,roanoke",51161.0,3.0
+2869,"virginia,rockbridge",51163.0,2.0
+2870,"virginia,rockingham",51165.0,1.0
+2871,"virginia,russell",51167.0,5.0
+2872,"virginia,scott",51169.0,5.0
+2873,"virginia,shenandoah",51171.0,3.0
+2874,"virginia,smyth",51173.0,5.0
+2875,"virginia,southampton",51175.0,
+2876,"virginia,spotsylvania",51177.0,3.0
+2877,"virginia,stafford",51179.0,3.0
+2878,"virginia,surry",51181.0,
+2879,"virginia,sussex",51183.0,
+2880,"virginia,tazewell",51185.0,3.0
+2881,"virginia,warren",51187.0,3.0
+2882,"virginia,washington",51191.0,5.0
+2883,"virginia,westmoreland",51193.0,
+2884,"virginia,wise",51195.0,5.0
+2885,"virginia,wythe",51197.0,5.0
+2886,"virginia,york",51199.0,1.0
+2887,"virginia,hampton",51650.0,4.0
+2888,"virginia,newport news",51700.0,4.0
+2889,"virginia,norfolk",51710.0,4.0
+2890,"virginia,virginia beach",51810.0,3.0
+2891,"washington,adams",53001.0,1.0
+2892,"washington,asotin",53003.0,2.0
+2893,"washington,benton",53005.0,2.0
+2894,"washington,chelan",53007.0,1.0
+2895,"washington,clallam",53009.0,3.0
+2896,"washington,clark",53011.0,2.0
+2897,"washington,columbia",53013.0,1.0
+2898,"washington,cowlitz",53015.0,4.0
+2899,"washington,douglas",53017.0,1.0
+2900,"washington,ferry",53019.0,1.0
+2901,"washington,franklin",53021.0,1.0
+2902,"washington,garfield",53023.0,
+2903,"washington,grant",53025.0,1.0
+2904,"washington,grays harbor",53027.0,4.0
+2905,"washington,island",53029.0,1.0
+2906,"washington,jefferson",53031.0,1.0
+2907,"washington,king",53033.0,1.0
+2908,"washington,kitsap",53035.0,2.0
+2909,"washington,kittitas",53037.0,1.0
+2910,"washington,klickitat",53039.0,1.0
+2911,"washington,lewis",53041.0,2.0
+2912,"washington,lincoln",53043.0,1.0
+2913,"washington,mason",53045.0,4.0
+2914,"washington,okanogan",53047.0,3.0
+2915,"washington,pacific",53049.0,1.0
+2916,"washington,pend oreille",53051.0,1.0
+2917,"washington,pierce:main",53053.0,4.0
+2918,"washington,pierce:penrose",53054.0,
+2919,"washington,san juan:lopez island",53055.0,1.0
+2920,"washington,san juan:orcas island",53056.0,
+2921,"washington,san juan:san juan island",53056.5,
+2922,"washington,skagit",53057.0,2.0
+2923,"washington,skamania",53059.0,1.0
+2924,"washington,snohomish",53061.0,2.0
+2925,"washington,spokane",53063.0,2.0
+2926,"washington,stevens",53065.0,1.0
+2927,"washington,thurston",53067.0,2.0
+2928,"washington,wahkiakum",53069.0,1.0
+2929,"washington,walla walla",53071.0,1.0
+2930,"washington,whatcom",53073.0,2.0
+2931,"washington,whitman",53075.0,1.0
+2932,"washington,yakima",53077.0,2.0
+2933,"west virginia,barbour",54001.0,2.0
+2934,"west virginia,berkeley",54003.0,5.0
+2935,"west virginia,boone",54005.0,5.0
+2936,"west virginia,braxton",54007.0,3.0
+2937,"west virginia,brooke",54009.0,5.0
+2938,"west virginia,cabell",54011.0,5.0
+2939,"west virginia,calhoun",54013.0,5.0
+2940,"west virginia,clay",54015.0,5.0
+2941,"west virginia,doddridge",54017.0,5.0
+2942,"west virginia,fayette",54019.0,5.0
+2943,"west virginia,gilmer",54021.0,5.0
+2944,"west virginia,grant",54023.0,3.0
+2945,"west virginia,greenbrier",54025.0,5.0
+2946,"west virginia,hampshire",54027.0,4.0
+2947,"west virginia,hancock",54029.0,4.0
+2948,"west virginia,hardy",54031.0,3.0
+2949,"west virginia,harrison",54033.0,5.0
+2950,"west virginia,jackson",54035.0,5.0
+2951,"west virginia,jefferson",54037.0,3.0
+2952,"west virginia,kanawha",54039.0,5.0
+2953,"west virginia,lewis",54041.0,5.0
+2954,"west virginia,lincoln",54043.0,5.0
+2955,"west virginia,logan",54045.0,5.0
+2956,"west virginia,mcdowell",54047.0,5.0
+2957,"west virginia,marion",54049.0,3.0
+2958,"west virginia,marshall",54051.0,4.0
+2959,"west virginia,mason",54053.0,5.0
+2960,"west virginia,mercer",54055.0,5.0
+2961,"west virginia,mineral",54057.0,3.0
+2962,"west virginia,mingo",54059.0,5.0
+2963,"west virginia,monongalia",54061.0,2.0
+2964,"west virginia,monroe",54063.0,3.0
+2965,"west virginia,morgan",54065.0,3.0
+2966,"west virginia,nicholas",54067.0,5.0
+2967,"west virginia,ohio",54069.0,3.0
+2968,"west virginia,pendleton",54071.0,1.0
+2969,"west virginia,pleasants",54073.0,5.0
+2970,"west virginia,pocahontas",54075.0,4.0
+2971,"west virginia,preston",54077.0,3.0
+2972,"west virginia,putnam",54079.0,4.0
+2973,"west virginia,raleigh",54081.0,4.0
+2974,"west virginia,randolph",54083.0,5.0
+2975,"west virginia,ritchie",54085.0,5.0
+2976,"west virginia,roane",54087.0,4.0
+2977,"west virginia,summers",54089.0,5.0
+2978,"west virginia,taylor",54091.0,5.0
+2979,"west virginia,tucker",54093.0,3.0
+2980,"west virginia,tyler",54095.0,
+2981,"west virginia,upshur",54097.0,3.0
+2982,"west virginia,wayne",54099.0,5.0
+2983,"west virginia,webster",54101.0,5.0
+2984,"west virginia,wetzel",54103.0,5.0
+2985,"west virginia,wirt",54105.0,5.0
+2986,"west virginia,wood",54107.0,5.0
+2987,"west virginia,wyoming",54109.0,5.0
+2988,"wisconsin,adams",55001.0,5.0
+2989,"wisconsin,ashland",55003.0,1.0
+2990,"wisconsin,barron",55005.0,2.0
+2991,"wisconsin,bayfield",55007.0,2.0
+2992,"wisconsin,brown",55009.0,2.0
+2993,"wisconsin,buffalo",55011.0,1.0
+2994,"wisconsin,burnett",55013.0,3.0
+2995,"wisconsin,calumet",55015.0,1.0
+2996,"wisconsin,chippewa",55017.0,3.0
+2997,"wisconsin,clark",55019.0,1.0
+2998,"wisconsin,columbia",55021.0,3.0
+2999,"wisconsin,crawford",55023.0,3.0
+3000,"wisconsin,dane",55025.0,1.0
+3001,"wisconsin,dodge",55027.0,3.0
+3002,"wisconsin,door",55029.0,1.0
+3003,"wisconsin,douglas",55031.0,2.0
+3004,"wisconsin,dunn",55033.0,1.0
+3005,"wisconsin,eau claire",55035.0,1.0
+3006,"wisconsin,florence",55037.0,3.0
+3007,"wisconsin,fond du lac",55039.0,2.0
+3008,"wisconsin,forest",55041.0,1.0
+3009,"wisconsin,grant",55043.0,1.0
+3010,"wisconsin,green",55045.0,1.0
+3011,"wisconsin,green lake",55047.0,3.0
+3012,"wisconsin,iowa",55049.0,2.0
+3013,"wisconsin,iron",55051.0,2.0
+3014,"wisconsin,jackson",55053.0,3.0
+3015,"wisconsin,jefferson",55055.0,2.0
+3016,"wisconsin,juneau",55057.0,
+3017,"wisconsin,kenosha",55059.0,3.0
+3018,"wisconsin,kewaunee",55061.0,3.0
+3019,"wisconsin,la crosse",55063.0,2.0
+3020,"wisconsin,lafayette",55065.0,1.0
+3021,"wisconsin,langlade",55067.0,2.0
+3022,"wisconsin,lincoln",55069.0,3.0
+3023,"wisconsin,manitowoc",55071.0,1.0
+3024,"wisconsin,marathon",55073.0,1.0
+3025,"wisconsin,marinette",55075.0,3.0
+3026,"wisconsin,marquette",55077.0,3.0
+3027,"wisconsin,milwaukee",55079.0,3.0
+3028,"wisconsin,monroe",55081.0,4.0
+3029,"wisconsin,oconto",55083.0,3.0
+3030,"wisconsin,oneida",55085.0,3.0
+3031,"wisconsin,outagamie",55087.0,2.0
+3032,"wisconsin,ozaukee",55089.0,1.0
+3033,"wisconsin,pepin",55091.0,
+3034,"wisconsin,pierce",55093.0,1.0
+3035,"wisconsin,polk",55095.0,2.0
+3036,"wisconsin,portage",55097.0,1.0
+3037,"wisconsin,price",55099.0,3.0
+3038,"wisconsin,racine",55101.0,3.0
+3039,"wisconsin,richland",55103.0,
+3040,"wisconsin,rock",55105.0,4.0
+3041,"wisconsin,rusk",55107.0,1.0
+3042,"wisconsin,st croix",55109.0,1.0
+3043,"wisconsin,sauk",55111.0,2.0
+3044,"wisconsin,sawyer",55113.0,3.0
+3045,"wisconsin,shawano",55115.0,2.0
+3046,"wisconsin,sheboygan",55117.0,2.0
+3047,"wisconsin,taylor",55119.0,1.0
+3048,"wisconsin,trempealeau",55121.0,2.0
+3049,"wisconsin,vernon",55123.0,3.0
+3050,"wisconsin,vilas",55125.0,1.0
+3051,"wisconsin,walworth",55127.0,2.0
+3052,"wisconsin,washburn",55129.0,3.0
+3053,"wisconsin,washington",55131.0,2.0
+3054,"wisconsin,waukesha",55133.0,1.0
+3055,"wisconsin,waupaca",55135.0,2.0
+3056,"wisconsin,waushara",55137.0,3.0
+3057,"wisconsin,winnebago",55139.0,2.0
+3058,"wisconsin,wood",55141.0,3.0
+3059,"wyoming,albany",56001.0,1.0
+3060,"wyoming,big horn",56003.0,1.0
+3061,"wyoming,campbell",56005.0,2.0
+3062,"wyoming,carbon",56007.0,1.0
+3063,"wyoming,converse",56009.0,1.0
+3064,"wyoming,crook",56011.0,1.0
+3065,"wyoming,fremont",56013.0,1.0
+3066,"wyoming,goshen",56015.0,1.0
+3067,"wyoming,hot springs",56017.0,1.0
+3068,"wyoming,johnson",56019.0,1.0
+3069,"wyoming,laramie",56021.0,1.0
+3070,"wyoming,lincoln",56023.0,1.0
+3071,"wyoming,natrona",56025.0,2.0
+3072,"wyoming,niobrara",56027.0,1.0
+3073,"wyoming,park",56029.0,1.0
+3074,"wyoming,platte",56031.0,1.0
+3075,"wyoming,sheridan",56033.0,1.0
+3076,"wyoming,sublette",56035.0,1.0
+3077,"wyoming,sweetwater",56037.0,1.0
+3078,"wyoming,teton",56039.0,1.0
+3079,"wyoming,uinta",56041.0,1.0
+3080,"wyoming,washakie",56043.0,1.0
+3081,"wyoming,weston",56045.0,1.0
